@@ -1,0 +1,1857 @@
+﻿Log file open, 05/21/21 17:32:16
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: UnrealTeamGame31
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.258826
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 3600 6-Core Processor              , GPU: NVIDIA GeForce RTX 2060 SUPER
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.05.21-08.32.16:730][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.05.21-08.32.16:730][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.05.21-08.32.16:730][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/Config/Windows/Engine.ini]
+[2021.05.21-08.32.16:730][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.05.21-08.32.16:730][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2021.05.21-08.32.16:730][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:1]]
+[2021.05.21-08.32.16:730][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:1]]
+[2021.05.21-08.32.16:730][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/Config/Windows/Engine.ini]
+[2021.05.21-08.32.16:730][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/Config/Windows/Engine.ini]
+[2021.05.21-08.32.16:730][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.05.21-08.32.16:730][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.05.21-08.32.16:730][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.05.21-08.32.16:730][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.05.21-08.32.16:730][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.05.21-08.32.16:730][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.05.21-08.32.16:730][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.05.21-08.32.16:730][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.05.21-08.32.16:730][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.05.21-08.32.16:730][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.05.21-08.32.16:730][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.05.21-08.32.16:730][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.05.21-08.32.16:730][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.05.21-08.32.16:730][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.05.21-08.32.16:730][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/Config/Windows/Engine.ini]
+[2021.05.21-08.32.16:730][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.05.21-08.32.16:730][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.05.21-08.32.16:730][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.05.21-08.32.16:730][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.05.21-08.32.16:730][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.05.21-08.32.16:730][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.05.21-08.32.16:730][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.05.21-08.32.16:730][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.05.21-08.32.16:730][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.05.21-08.32.16:730][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.05.21-08.32.16:730][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.05.21-08.32.16:730][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.05.21-08.32.16:730][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.05.21-08.32.16:730][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.05.21-08.32.16:730][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/Config/Windows/Engine.ini]
+[2021.05.21-08.32.16:730][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/Config/Windows/Engine.ini]
+[2021.05.21-08.32.16:762][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.05.21-08.32.16:762][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.21-08.32.16:762][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.21-08.32.16:762][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.21-08.32.16:763][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.21-08.32.16:764][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.21-08.32.16:764][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.05.21-08.32.16:764][  0]LogHAL: Display: Platform has ~ 16 GB [17126666240 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.05.21-08.32.16:764][  0]LogInit: Going up to parent DeviceProfile []
+[2021.05.21-08.32.16:764][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [C:/Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [C:/Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:6]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [C:/Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:4096]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [C:/Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.GTAO.Numangles:4]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:4]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:1000]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.LensFlareQuality:3]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; no bokeh simulation when scattering]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.25        ; only a maximum of 10% of scattered bokeh]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [C:/Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:3000]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [C:/Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.21-08.32.16:764][  0]LogConfig: Setting CVar [[r.SSR.Quality:4]]
+[2021.05.21-08.32.16:765][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.21-08.32.16:765][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.21-08.32.16:765][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.21-08.32.16:765][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.21-08.32.16:765][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.21-08.32.16:765][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.21-08.32.16:765][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.21-08.32.16:765][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.21-08.32.16:765][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.21-08.32.16:765][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.21-08.32.16:765][  0]LogConfig: Setting CVar [[r.SSGI.Quality:4]]
+[2021.05.21-08.32.16:765][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.21-08.32.16:765][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.21-08.32.16:765][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:0]]
+[2021.05.21-08.32.16:765][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:8]]
+[2021.05.21-08.32.16:765][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:32.0]]
+[2021.05.21-08.32.16:765][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:0]]
+[2021.05.21-08.32.16:765][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.21-08.32.16:765][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:256.0]]
+[2021.05.21-08.32.16:765][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:8.0]]
+[2021.05.21-08.32.16:765][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:256.0]]
+[2021.05.21-08.32.16:765][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.21-08.32.16:765][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:30.0]]
+[2021.05.21-08.32.16:765][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:20.0]]
+[2021.05.21-08.32.16:765][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [C:/Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.05.21-08.32.16:765][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.21-08.32.16:765][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.21-08.32.16:765][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@Cine] File [C:/Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.05.21-08.32.16:765][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:0]]
+[2021.05.21-08.32.16:765][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:8]]
+[2021.05.21-08.32.16:765][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:8]]
+[2021.05.21-08.32.16:765][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.05.21-08.32.16:766][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.05.21-08.32.16:766][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.05.21-08.32.16:766][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.05.21-08.32.16:766][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/Config/Windows/Engine.ini]
+[2021.05.21-08.32.16:766][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/Config/Windows/Editor.ini]
+[2021.05.21-08.32.16:766][  0]LogInit: Computer: DESKTOP-A4MC9HG
+[2021.05.21-08.32.16:766][  0]LogInit: User: 박지훈
+[2021.05.21-08.32.16:766][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.05.21-08.32.16:766][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.05.21-08.32.16:766][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2021.05.21-08.32.16:766][  0]LogMemory: Platform Memory Stats for Windows
+[2021.05.21-08.32.16:766][  0]LogMemory: Process Physical Memory: 142.05 MB used, 142.05 MB peak
+[2021.05.21-08.32.16:766][  0]LogMemory: Process Virtual Memory: 120.17 MB used, 120.17 MB peak
+[2021.05.21-08.32.16:766][  0]LogMemory: Physical Memory: 7834.61 MB used,  8498.66 MB free, 16333.26 MB total
+[2021.05.21-08.32.16:766][  0]LogMemory: Virtual Memory: 134205664.00 MB used,  12063.10 MB free, 134217728.00 MB total
+[2021.05.21-08.32.16:774][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.05.21-08.32.16:827][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.05.21-08.32.16:828][  0]LogInit: Using OS detected language (ko-KR).
+[2021.05.21-08.32.16:828][  0]LogInit: Using OS detected locale (ko-KR).
+[2021.05.21-08.32.16:832][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2021.05.21-08.32.16:928][  0]LogInit: Setting process to per monitor DPI aware
+[2021.05.21-08.32.16:957][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.21-08.32.16:969][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.05.21-08.32.16:969][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.05.21-08.32.17:140][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.21-08.32.17:140][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.05.21-08.32.17:140][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.05.21-08.32.17:140][  0]LogD3D11RHI: D3D11 adapters:
+[2021.05.21-08.32.17:270][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060 SUPER' (Feature Level 11_0)
+[2021.05.21-08.32.17:270][  0]LogD3D11RHI:       8031/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.05.21-08.32.17:273][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.05.21-08.32.17:273][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.05.21-08.32.17:273][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.05.21-08.32.17:281][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.05.21-08.32.17:281][  0]LogD3D11RHI:     GPU DeviceId: 0x1f06 (for the marketing name, search the web for "GPU Device Id")
+[2021.05.21-08.32.17:281][  0]LogWindows: EnumDisplayDevices:
+[2021.05.21-08.32.17:281][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060 SUPER' (P:1 D:1)
+[2021.05.21-08.32.17:281][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:0)
+[2021.05.21-08.32.17:282][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:0)
+[2021.05.21-08.32.17:282][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:0)
+[2021.05.21-08.32.17:282][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.05.21-08.32.17:282][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060 SUPER
+[2021.05.21-08.32.17:282][  0]LogD3D11RHI:   Driver Version: 461.72 (internal:27.21.14.6172, unified:461.72)
+[2021.05.21-08.32.17:282][  0]LogD3D11RHI:      Driver Date: 2-23-2021
+[2021.05.21-08.32.17:282][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2021.05.21-08.32.17:372][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.05.21-08.32.17:372][  0]LogD3D11RHI: Async texture creation enabled
+[2021.05.21-08.32.17:372][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.05.21-08.32.17:374][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061080).
+[2021.05.21-08.32.17:401][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.05.21-08.32.17:402][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.05.21-08.32.17:707][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.05.21-08.32.17:731][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.05.21-08.32.17:731][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.05.21-08.32.17:731][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.05.21-08.32.17:731][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.05.21-08.32.17:731][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.05.21-08.32.17:731][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.05.21-08.32.17:731][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.05.21-08.32.17:731][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.05.21-08.32.17:731][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.05.21-08.32.17:731][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.05.21-08.32.17:757][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.05.21-08.32.17:757][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.05.21-08.32.17:769][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.05.21-08.32.17:781][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.05.21-08.32.17:792][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.05.21-08.32.17:802][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.05.21-08.32.17:812][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.05.21-08.32.17:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.05.21-08.32.17:833][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.05.21-08.32.17:865][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.05.21-08.32.17:866][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.05.21-08.32.17:876][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.05.21-08.32.17:888][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.05.21-08.32.17:898][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.05.21-08.32.17:908][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.05.21-08.32.17:925][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.05.21-08.32.17:925][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.05.21-08.32.17:936][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.05.21-08.32.17:948][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.05.21-08.32.17:958][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.05.21-08.32.17:968][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.05.21-08.32.17:968][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.05.21-08.32.17:977][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.05.21-08.32.18:048][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.05.21-08.32.18:048][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Intermediate/Shaders/WorkingDirectory/12588/).
+[2021.05.21-08.32.18:048][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/박지훈/AppData/Local/Temp/UnrealShaderWorkingDir/BA900F9B4000F35C327B7AA04474194A/'.
+[2021.05.21-08.32.18:048][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.05.21-08.32.18:048][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.05.21-08.32.18:787][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.05.21-08.32.18:836][  0]LogDerivedDataCache: Loaded boot cache 0.05s 77MB C:/Users/박지훈/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.21-08.32.18:836][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/박지훈/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.05.21-08.32.18:836][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.05.21-08.32.18:836][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.05.21-08.32.18:836][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.21-08.32.18:836][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.05.21-08.32.18:849][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.05.21-08.32.18:850][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.21-08.32.18:850][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.05.21-08.32.18:863][  0]LogDerivedDataCache: Speed tests for C:/Users/박지훈/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.05.21-08.32.18:863][  0]LogDerivedDataCache: Display: Performance to C:/Users/박지훈/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=236.89MBs, RandomWriteSpeed=99.35MBs. Assigned SpeedClass 'Local'
+[2021.05.21-08.32.18:864][  0]LogDerivedDataCache: Using Local data cache path C:/Users/박지훈/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.05.21-08.32.18:864][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.05.21-08.32.18:864][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.05.21-08.32.18:909][  0]LogSlate: Using FreeType 2.10.0
+[2021.05.21-08.32.18:909][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.05.21-08.32.18:932][  0]LogAssetRegistry: FAssetRegistry took 0.0034 seconds to start up
+[2021.05.21-08.32.19:099][  0]LogCollisionProfile: Warning: Profile (Pawn) - Custom Channel Name = 'Grabbable' hasn't been found
+[2021.05.21-08.32.19:099][  0]LogCollisionProfile: Warning: Profile (Spectator) - Custom Channel Name = 'Grabbable' hasn't been found
+[2021.05.21-08.32.19:099][  0]LogCollisionProfile: Warning: Profile (CharacterMesh) - Custom Channel Name = 'Grabbable' hasn't been found
+[2021.05.21-08.32.19:099][  0]LogCollisionProfile: Warning: Profile (InvisibleWall) - Custom Channel Name = 'Grabbable' hasn't been found
+[2021.05.21-08.32.19:099][  0]LogCollisionProfile: Warning: Profile (InvisibleWallDynamic) - Custom Channel Name = 'Grabbable' hasn't been found
+[2021.05.21-08.32.19:099][  0]LogCollisionProfile: Warning: Profile (Trigger) - Custom Channel Name = 'Grabbable' hasn't been found
+[2021.05.21-08.32.19:099][  0]LogCollisionProfile: Warning: Profile (Ragdoll) - Custom Channel Name = 'Grabbable' hasn't been found
+[2021.05.21-08.32.19:099][  0]LogCollisionProfile: Warning: Profile (UI) - Custom Channel Name = 'Grabbable' hasn't been found
+[2021.05.21-08.32.19:099][  0]LogCollisionProfile: Warning: Profile (ALS_Character) - Custom Channel Name = 'Grabbable' hasn't been found
+[2021.05.21-08.32.19:099][  0]LogCollisionProfile: Warning: Profile (ALS_Prop) - Custom Channel Name = 'Grabbable' hasn't been found
+[2021.05.21-08.32.19:165][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.21-08.32.19:165][  0]LogInit: Active device profile: [00000223D0A7DB00][00000223C20F9980 49] Windows
+[2021.05.21-08.32.19:165][  0]LogInit: Profiles: [00000223D0A7DB00][00000223C20F9980 49] Windows, [00000223D0A56400][00000223C2101B00 49] WindowsNoEditor, [00000223D0A7DD00][00000223C2105C80 49] WindowsServer, [00000223D0A54C00][00000223C2108140 49] WindowsClient, [00000223D0A7CE00][00000223C210C2C0 49] IOS, [00000223D0A57500][00000223D03A2440 49] iPadAir, [00000223D0A7F000][00000223D03A65C0 49] iPadAir2, [00000223D0A0AB00][00000223D03AE880 49] IPadPro, [00000223D0A0AC00][00000223D03AA8C0 49] iPadAir3, [00000223D0A7D200][00000223D03B2A40 49] iPadAir4, [00000223D0A0A800][00000223D03B6BC0 49] iPadMini2, [00000223D0A7F100][00000223D03CED40 49] iPadMini3, [00000223D0A09800][00000223D03E4EC0 49] iPadMini4, [00000223D0A7EA00][00000223D03E9040 49] iPadMini5, [00000223D0A4A400][00000223D0411300 49] iPhone6, [00000223D0A4A500][00000223D040D340 49] iPodTouch6, [00000223D0A54200][00000223D1535600 49] iPhone7, [00000223D0A54500][00000223D041D640 49] iPodTouch7, [00000223D0A4BC00][00000223C20FD780 49] iPhone5S, [00000223D0A57D00][00000223D15658C0 49] iPhone6Plus, [00000223D0A49600][00000223D156DA00 49] iPhone6S, [00000223D0A55E00][00000223D163FB80 49] iPhone6SPlus, [00000223D0A48700][00000223D164BD00 49] iPhone7Plus, [00000223D0A55100][00000223D168A1C0 49] iPhoneSE, [00000223D0A4B400][00000223D168E340 49] iPhone8, [00000223D0A57E00][00000223D16924C0 49] iPhone8Plus, [00000223D0A48200][00000223D1696640 49] iPhoneX, [00000223D0A56A00][00000223D169A7C0 49] iPhoneXS, [00000223D0A4AF00][00000223D16BE940 49] iPhoneXSMax, [00000223D0A56500][00000223D16C2AC0 49] iPhoneXR, [00000223D0A48D00][00000223D16CCC40 49] iPhone11, [00000223D0A56700][00000223D16FEDC0 49] iPhone11Pro, [00000223D0A4B200][00000223D1702F40 49] iPhone11ProMax, [00000223D0A57800][00000223D170F0C0 49] iPhoneSE2, [00000223D0A4AD00][00000223D1713240 49] iPhone12Mini, [00000223D0A54100][00000223D17173C0 49] iPhone12, [00000223D0A54A00][00000223D171B540 49] iPhone12Pro, [00000223D0A7F500][00000223D17276C0 49] iPhone12ProMax, [00000223D0A7E400][00000223D1637800 49] iPadPro105, [00000223D0A49200][00000223D1739940 49] iPadPro129, [00000223D0A7E000][00000223D173DA80 49] iPadPro97, [00000223D0A4A100][00000223D1751C00 49] iPadPro2_129, [00000223D0A7CD00][00000223D17540C0 49] iPad5, [00000223D0A4B500][00000223D176A240 49] iPad6, [00000223D0A7FF00][00000223D176E3C0 49] iPad7, [00000223D0A4B800][00000223D1772540 49] iPad8, [00000223D0A56D00][00000223D17766C0 49] iPadPro11, [00000223D0A48400][00000223D177A840 49] iPadPro2_11, [00000223D0A54F00][00000223D177E9C0 49] iPadPro3_129, [00000223D0A49B00][00000223D1782B40 49] iPadPro4_129, [00000223D0A55D00][00000223D1786CC0 49] AppleTV, [00000223D0A48600][00000223D178AE40 49] AppleTV4K, [00000223D0A56200][00000223D178EFC0 49] TVOS, [00000223D0A48900][00000223D17B3140 49] Mac, [00000223D0A54D00][00000223D17B72C0 49] MacClient, [00000223D0A48100][00000223D17BB440 49] MacNoEditor, [00000223D0A55B00][00000223D17BF5C0 49] MacServer, [00000223D0A4B700][00000223D17C3740 49] Linux, [00000223D0A57100][00000223D174D880 49] LinuxAArch64, [00000223D0A4B100][00000223D17C79C0 49] LinuxNoEditor, [00000223D0A57B00][00000223D17CBB00 49] LinuxAArch64NoEditor, [00000223D0A49900][00000223D17CFC40 49] LinuxClient, [00000223D0A54600][00000223D17D6100 49] LinuxAArch64Client, [00000223D0A4A200][00000223D17DA280 49] LinuxServer, [00000223D0A55500][00000223D17DE400 49] LinuxAArch64Server, [00000223D0A4BD00][00000223D180E580 49] Android, [00000223D0A54300][00000223D1812700 49] Android_Low, [00000223D0A48C00][00000223D1816880 49] Android_Mid, [00000223D0A54900][00000223D181AA00 49] Android_High, [00000223D0A4AB00][00000223D181EB80 49] Android_Default, [00000223D0A57F00][00000223D1822D00 49] Android_Adreno4xx, [00000223D0A48800][00000223D1826E80 49] Android_Adreno5xx_Low, [00000223D0A54E00][00000223D182B000 49] Android_Adreno5xx, [00000223D0A48E00][00000223D2841180 49] Android_Adreno6xx, [00000223D0A55700][00000223D2845300 49] Android_Adreno6xx_Vulkan, [00000223D0A4BA00][00000223D2849480 49] Android_Mali_T6xx, [00000223D0A57C00][00000223D284D600 49] Android_Mali_T7xx, [00000223D0A49C00][00000223D288D780 49] Android_Mali_T8xx, [00000223D0A54700][00000223D17D38C0 49] Android_Mali_G71, [00000223D0A48B00][00000223D2891A00 49] Android_Mali_G72, [00000223D0A55200][00000223D2895B40 49] Android_Mali_G72_Vulkan, [00000223D0A49000][00000223D2899C80 49] Android_Mali_G76, [00000223D0A55900][00000223D28A0140 49] Android_Mali_G76_Vulkan, [00000223D0A48300][00000223D28A42C0 49] Android_Mali_G77, [00000223D0A57300][00000223D28A8440 49] Android_Mali_G77_Vulkan, [00000223D0A49300][00000223D28AC5C0 49] Android_Vulkan_SM5, [00000223D0A7CB00][00000223D28B0740 49] Android_PowerVR_G6xxx, [00000223D0A08800][00000223D28B48C0 49] Android_PowerVR_GT7xxx, [00000223D0A7EE00][00000223D28B8A40 49] Android_PowerVR_GE8xxx, [00000223D0A0A900][00000223D28BCBC0 49] Android_PowerVR_GM9xxx, [00000223D0A7E200][00000223D28C0D40 49] Android_PowerVR_GM9xxx_Vulkan, [00000223D0A08D00][00000223D28C4EC0 49] Android_TegraK1, [00000223D0A7F300][00000223D28C9040 49] Android_Unknown_Vulkan, [00000223D0A09400][00000223D28CD1C0 49] Lumin, [00000223D0A7EC00][00000223D28D1340 49] Lumin_Desktop, [00000223D0A09B00][00000223D28D54C0 49] HoloLens, 
+[2021.05.21-08.32.19:213][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.05.21-08.32.19:213][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.05.21-08.32.19:213][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.05.21-08.32.19:213][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.05.21-08.32.19:213][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.05.21-08.32.19:284][  0]LogNetVersion: UnrealTeamGame31 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3763922559)
+[2021.05.21-08.32.19:699][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.05.21-08.32.19:741][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.041820 seconds
+[2021.05.21-08.32.19:747][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.05.21-08.32.19:747][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.05.21-08.32.19:747][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.05.21-08.32.20:054][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.05.21-08.32.20:060][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.05.21-08.32.20:382][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.05.21-08.32.20:403][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.21-08.32.20:403][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.21-08.32.20:483][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.05.21-08.32.20:483][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.05.21-08.32.20:486][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.05.21-08.32.20:490][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.05.21-08.32.20:498][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.05.21-08.32.20:507][  0]LogUProjectInfo: Found projects:
+[2021.05.21-08.32.20:650][  0]LogCollectionManager: Loaded 0 collections in 0.002417 seconds
+[2021.05.21-08.32.20:677][  0]LogFileCache: Scanning file cache for directory 'C:/Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/Collections/' took 0.00s
+[2021.05.21-08.32.20:677][  0]LogFileCache: Scanning file cache for directory 'C:/Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/Developers/박지훈/Collections/' took 0.00s
+[2021.05.21-08.32.20:677][  0]LogFileCache: Scanning file cache for directory 'C:/Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/Collections/' took 0.00s
+[2021.05.21-08.32.20:677][  0]LogOcInput: OculusInput pre-init called
+[2021.05.21-08.32.20:691][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.05.21-08.32.20:691][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.05.21-08.32.20:743][  0]LogEngine: Initializing Engine...
+[2021.05.21-08.32.20:744][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.21-08.32.20:744][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.05.21-08.32.20:745][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.05.21-08.32.20:843][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.05.21-08.32.20:852][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.05.21-08.32.20:860][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.05.21-08.32.20:865][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.05.21-08.32.20:865][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.05.21-08.32.20:865][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.21-08.32.20:865][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.21-08.32.20:865][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.21-08.32.20:865][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.21-08.32.20:865][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.21-08.32.20:865][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.21-08.32.20:865][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.21-08.32.20:865][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.21-08.32.20:865][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.21-08.32.20:865][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.21-08.32.20:881][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.21-08.32.20:881][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.05.21-08.32.20:914][  0]LogAudioMixer: Display: Using Audio Device 스피커(6- USB Audio Device)
+[2021.05.21-08.32.20:917][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.21-08.32.20:920][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.21-08.32.20:920][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.21-08.32.20:921][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.21-08.32.20:921][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.21-08.32.20:921][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.21-08.32.20:922][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.21-08.32.20:922][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.21-08.32.20:922][  0]LogInit: FAudioDevice initialized.
+[2021.05.21-08.32.20:922][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.05.21-08.32.20:922][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.05.21-08.32.20:972][  0]LogDerivedDataCache: Saved boot cache 0.05s 77MB C:/Users/박지훈/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.21-08.32.20:975][  0]LogInit: Texture streaming: Enabled
+[2021.05.21-08.32.20:989][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.05.21-08.32.20:994][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.05.21-08.32.20:994][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.05.21-08.32.20:996][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.05.21-08.32.21:026][  0]LogInit: Transaction tracking system initialized
+[2021.05.21-08.32.21:051][  0]BlueprintLog: New page: 에디터 로드
+[2021.05.21-08.32.21:129][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2021.05.21-08.32.21:156][  0]TimingProfiler: Initialize
+[2021.05.21-08.32.21:157][  0]TimingProfiler: OnSessionChanged
+[2021.05.21-08.32.21:157][  0]LoadingProfiler: Initialize
+[2021.05.21-08.32.21:157][  0]LoadingProfiler: OnSessionChanged
+[2021.05.21-08.32.21:157][  0]NetworkingProfiler: Initialize
+[2021.05.21-08.32.21:157][  0]NetworkingProfiler: OnSessionChanged
+[2021.05.21-08.32.21:157][  0]MemoryProfiler: Initialize
+[2021.05.21-08.32.21:157][  0]MemoryProfiler: OnSessionChanged
+[2021.05.21-08.32.21:298][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.05.21-08.32.21:298][  0]LogCook: Display: Mobile HDR setting 1
+[2021.05.21-08.32.21:469][  0]LogFileCache: Scanning file cache for directory 'C:/Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/' took 0.02s
+[2021.05.21-08.32.21:643][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.05.21-08.32.21:646][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.05.21-08.32.21:646][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.098
+[2021.05.21-08.32.21:647][  0]Cmd: MAP LOAD FILE="../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/maps/a.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.21-08.32.21:647][  0]LightingResults: New page: 라이팅 빌드
+[2021.05.21-08.32.21:648][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.05.21-08.32.21:648][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-08.32.21:648][  0]MapCheck: New page: 맵 체크
+[2021.05.21-08.32.21:648][  0]LightingResults: New page: 라이팅 빌드
+[2021.05.21-08.32.21:653][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.05.21-08.32.24:049][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'a'.
+[2021.05.21-08.32.24:050][  0]LogAIModule: Creating AISystem for world a
+[2021.05.21-08.32.24:153][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.21-08.32.24:190][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.05.21-08.32.24:194][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.21-08.32.24:194][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.248ms.
+[2021.05.21-08.32.24:194][  0]LogFileHelpers: Loading map 'a' took 2.547
+[2021.05.21-08.32.24:196][  0]LogUnrealEdMisc: Total Editor Startup Time, took 8.647
+[2021.05.21-08.32.24:307][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-08.32.24:313][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-08.32.24:320][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-08.32.24:326][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-08.32.24:340][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0091 seconds. Added 3601 classes and 859 folders.
+[2021.05.21-08.32.24:344][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.05.21-08.32.24:346][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.21-08.32.24:346][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-08.32.24:346][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.21-08.32.24:346][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.05.21-08.32.24:347][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.21-08.32.24:347][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-08.32.24:347][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.21-08.32.24:347][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.05.21-08.32.24:347][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.05.21-08.32.24:347][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-08.32.24:347][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.05.21-08.32.24:347][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.05.21-08.32.24:348][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.21-08.32.24:348][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-08.32.24:348][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.21-08.32.24:348][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.05.21-08.32.24:349][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.21-08.32.24:349][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-08.32.24:349][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.21-08.32.24:349][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.05.21-08.32.24:349][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.21-08.32.24:349][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-08.32.24:349][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.21-08.32.24:349][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.05.21-08.32.24:350][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.21-08.32.24:350][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-08.32.24:350][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.21-08.32.24:350][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.05.21-08.32.24:350][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.21-08.32.24:350][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-08.32.24:350][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.21-08.32.24:351][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.05.21-08.32.24:351][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.21-08.32.24:351][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-08.32.24:351][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.21-08.32.24:351][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.05.21-08.32.24:352][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.21-08.32.24:352][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-08.32.24:352][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.21-08.32.24:352][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.05.21-08.32.24:352][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.21-08.32.24:352][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-08.32.24:352][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.21-08.32.24:352][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.05.21-08.32.24:353][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.21-08.32.24:353][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-08.32.24:353][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.21-08.32.24:353][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.05.21-08.32.24:353][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.21-08.32.24:353][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-08.32.24:353][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.21-08.32.24:353][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.05.21-08.32.24:354][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.21-08.32.24:354][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-08.32.24:354][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.21-08.32.24:354][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.05.21-08.32.24:355][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.21-08.32.24:355][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-08.32.24:355][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.21-08.32.24:355][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.05.21-08.32.24:355][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.21-08.32.24:355][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-08.32.24:355][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.21-08.32.24:355][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.05.21-08.32.24:356][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.21-08.32.24:356][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-08.32.24:356][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.21-08.32.24:356][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.05.21-08.32.24:357][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.21-08.32.24:357][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-08.32.24:357][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.21-08.32.24:357][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.05.21-08.32.24:357][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.21-08.32.24:357][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-08.32.24:357][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.21-08.32.24:357][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.05.21-08.32.24:358][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.21-08.32.24:358][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-08.32.24:358][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.21-08.32.24:358][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.05.21-08.32.24:358][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.21-08.32.24:358][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-08.32.24:358][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.21-08.32.24:358][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.05.21-08.32.24:359][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.21-08.32.24:359][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-08.32.24:359][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.21-08.32.24:359][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.05.21-08.32.24:360][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.05.21-08.32.24:360][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-08.32.24:360][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.05.21-08.32.24:360][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.05.21-08.32.24:360][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.21-08.32.24:360][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-08.32.24:360][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.21-08.32.24:360][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.05.21-08.32.24:361][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.21-08.32.24:361][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-08.32.24:361][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.21-08.32.24:361][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.05.21-08.32.24:362][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.21-08.32.24:362][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-08.32.24:362][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.21-08.32.24:362][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.05.21-08.32.24:410][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.05.21-08.32.24:412][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.05.21-08.32.24:438][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.05.21-08.32.24:438][  0]LogLoad: (Engine Initialization) Total time: 8.89 seconds
+[2021.05.21-08.32.24:438][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.05.21-08.32.24:438][  0]LogInit: First time updating LLM stats...
+[2021.05.21-08.32.24:500][  0]LogAssetRegistry: Asset discovery search completed in 5.5686 seconds
+[2021.05.21-08.32.24:501][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.05.21-08.32.24:550][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2021.05.21-08.32.24:569][  0]LogSlate: Took 0.000330 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.05.21-08.32.24:573][  0]LogSlate: Took 0.002755 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2021.05.21-08.32.24:576][  0]LogSlate: Took 0.002449 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2021.05.21-08.32.24:577][  0]LogSlate: Took 0.000288 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.05.21-08.32.24:581][  0]LogSlate: Took 0.000391 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.05.21-08.32.25:054][  1]LogRenderer: Reallocating scene render targets to support 1128x756 Format 10 NumSamples 1 (Frame:1).
+[2021.05.21-08.32.29:110][457]LogTemp: Repeating last play command: 선택된 뷰포트
+[2021.05.21-08.32.29:117][457]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.21-08.32.29:117][457]PIE: New page: PIE 세션: a (2021. 5. 22. 오전 2:32:29)
+[2021.05.21-08.32.29:119][457]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.05.21-08.32.29:119][457]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.05.21-08.32.29:119][457]LogPlayLevel: Creating play world package: /Game/maps/UEDPIE_0_a
+[2021.05.21-08.32.29:163][457]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043815s)
+[2021.05.21-08.32.29:164][457]LogAIModule: Creating AISystem for world a
+[2021.05.21-08.32.29:164][457]LogPlayLevel: PIE: World Init took: (0.001078s)
+[2021.05.21-08.32.29:164][457]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maps/a.a to /Game/maps/UEDPIE_0_a.a (0.045058s)
+[2021.05.21-08.32.29:170][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.05.21-08.32.29:170][457]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.05.21-08.32.29:170][457]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.21-08.32.29:171][457]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.21-08.32.29:171][457]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.21-08.32.29:171][457]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.21-08.32.29:171][457]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.21-08.32.29:171][457]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.21-08.32.29:171][457]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.21-08.32.29:171][457]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.21-08.32.29:171][457]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.21-08.32.29:171][457]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.21-08.32.29:177][457]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.21-08.32.29:177][457]LogAudioMixer: Display: 1: FrontRight
+[2021.05.21-08.32.29:191][457]LogAudioMixer: Display: Using Audio Device 스피커(6- USB Audio Device)
+[2021.05.21-08.32.29:191][457]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.21-08.32.29:191][457]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.21-08.32.29:191][457]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.21-08.32.29:192][457]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.21-08.32.29:192][457]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.21-08.32.29:192][457]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.21-08.32.29:205][457]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.21-08.32.29:205][457]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.21-08.32.29:205][457]LogInit: FAudioDevice initialized.
+[2021.05.21-08.32.29:205][457]LogAudio: Display: Audio Device (ID: 2) registered with world 'a'.
+[2021.05.21-08.32.29:444][457]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2021.05.21-08.32.29:456][457]LogWorld: Bringing World /Game/maps/UEDPIE_0_a.a up for play (max tick rate 0) at 2021.05.21-17.32.29
+[2021.05.21-08.32.29:457][457]LogWorld: Bringing up level for play took: 0.011669
+[2021.05.21-08.32.29:457][457]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.05.21-08.32.29:468][457]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2021.05.21-08.32.29:484][457]PIE: 서버가 로그인했습니다.
+[2021.05.21-08.32.29:486][457]PIE: 에디터에서 플레이 총 시작 시간 0.371초입니다.
+[2021.05.21-08.32.29:492][457]AnimBlueprintLog: Warning: ALS_N_FallLoop' 애니메이션은 애디티브가 아닌데 'ALS_AnimBP_C /Game/maps/UEDPIE_0_a.a:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0' 애님 인스턴스에서 애디티브를 기대하는 포즈에 재생하려 하고 있습니다.
+[2021.05.21-08.32.29:492][457]AnimBlueprintLog: Warning: ALS_N_FallLoop_Fast' 애니메이션은 애디티브가 아닌데 'ALS_AnimBP_C /Game/maps/UEDPIE_0_a.a:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0' 애님 인스턴스에서 애디티브를 기대하는 포즈에 재생하려 하고 있습니다.
+[2021.05.21-08.32.29:753][469]AnimBlueprintLog: Warning: ALS_Flail' 애니메이션은 애디티브가 아닌데 'ALS_AnimBP_C /Game/maps/UEDPIE_0_a.a:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0' 애님 인스턴스에서 애디티브를 기대하는 포즈에 재생하려 하고 있습니다.
+[2021.05.21-08.32.30:604][545]AnimBlueprintLog: Warning: ALS_N_Land_Heavy' 애니메이션은 애디티브가 아닌데 'ALS_AnimBP_C /Game/maps/UEDPIE_0_a.a:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0' 애님 인스턴스에서 애디티브를 기대하는 포즈에 재생하려 하고 있습니다.
+[2021.05.21-08.32.30:655][549]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/AdvancedLocomotionV4/Audio/Footsteps/Footstep_Cue.Footstep_Cue was zero and has changed. Consider manually Re-saving the asset
+[2021.05.21-08.32.30:914][569]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-08.32.30:914][569]LogWorld: BeginTearingDown for /Game/maps/UEDPIE_0_a
+[2021.05.21-08.32.30:914][569]LogWorld: UWorld::CleanupWorld for a, bSessionEnded=true, bCleanupResources=true
+[2021.05.21-08.32.30:917][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-08.32.30:928][569]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.21-08.32.30:931][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-08.32.30:939][569]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.21-08.32.30:940][569]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.21-08.32.30:941][569]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.21-08.32.30:955][569]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-08.32.30:961][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2021.05.21-08.32.30:987][570]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.05.21-08.32.44:044][ 82]LogActorFactory: Actor Factory created Cube
+[2021.05.21-08.32.45:076][202]LogActorFactory: Actor Factory created Cube
+[2021.05.21-08.32.45:308][221]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.05.21-08.32.57:883][669]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2021.05.21-08.32.58:739][759]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.05.21-08.33.16:419][770]LogEditor: Attempting to add actor of class 'CableActor' to level at -6390.00,-8860.00,5840.00
+[2021.05.21-08.33.17:591][900]LogEditor: Attempting to add actor of class 'CableActor' to level at -7300.00,-6930.00,6040.00
+[2021.05.21-08.33.19:404][110]LogSlate: Took 0.000459 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.05.21-08.33.50:482][671]LogSlate: Took 0.000284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.21-08.33.50:498][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maps/a" FILE="../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/maps/a.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.21-08.33.50:504][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2021.05.21-08.33.50:744][671]LogSavePackage: Moving '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/a8C609DD748667EFB68435282959D1801.tmp' to '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/maps/a.umap'
+[2021.05.21-08.33.50:753][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maps/a_BuiltData" FILE="../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/maps/a_BuiltData.uasset" SILENT=true
+[2021.05.21-08.33.51:598][671]LogSavePackage: Moving '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/a_BuiltDataBBB6DA524EA40831096AA0A2297B9C39.tmp' to '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/maps/a_BuiltData.uasset'
+[2021.05.21-08.33.51:622][671]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2021.05.21-08.33.51:622][671]LogContentValidation: Display: MapBuildDataRegistry /Game/maps/a_BuiltData.a_BuiltData 유효성 검사
+[2021.05.21-08.33.51:622][671]LogContentValidation: Display: World /Game/maps/a.a 유효성 검사
+[2021.05.21-08.33.56:709][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TRockColumn_25)
+[2021.05.21-08.33.57:162][272]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.05.21-08.33.58:557][431]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PixelWater_3)
+[2021.05.21-08.34.01:251][740]LogEditorViewport: Clicking on Actor (LMB): SimpleMovingObject_C (SimpleMovingObject)
+[2021.05.21-08.34.06:236][283]LogEditorViewport: Clicking on Actor (LMB): CableActor (CableActor1)
+[2021.05.21-08.34.14:677][215]LogTemp: Repeating last play command: 선택된 뷰포트
+[2021.05.21-08.34.14:684][215]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.21-08.34.14:684][215]PIE: New page: PIE 세션: a (2021. 5. 22. 오전 2:34:14)
+[2021.05.21-08.34.14:684][215]LogPlayLevel: Creating play world package: /Game/maps/UEDPIE_0_a
+[2021.05.21-08.34.14:725][215]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041231s)
+[2021.05.21-08.34.14:726][215]LogAIModule: Creating AISystem for world a
+[2021.05.21-08.34.14:726][215]LogPlayLevel: PIE: World Init took: (0.000957s)
+[2021.05.21-08.34.14:726][215]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maps/a.a to /Game/maps/UEDPIE_0_a.a (0.042315s)
+[2021.05.21-08.34.14:731][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.05.21-08.34.14:734][215]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.05.21-08.34.14:734][215]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.21-08.34.14:734][215]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.21-08.34.14:734][215]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.21-08.34.14:734][215]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.21-08.34.14:734][215]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.21-08.34.14:734][215]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.21-08.34.14:734][215]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.21-08.34.14:734][215]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.21-08.34.14:735][215]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.21-08.34.14:735][215]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.21-08.34.14:740][215]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.21-08.34.14:740][215]LogAudioMixer: Display: 1: FrontRight
+[2021.05.21-08.34.14:753][215]LogAudioMixer: Display: Using Audio Device 스피커(6- USB Audio Device)
+[2021.05.21-08.34.14:753][215]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.21-08.34.14:753][215]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.21-08.34.14:753][215]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.21-08.34.14:754][215]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.21-08.34.14:754][215]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.21-08.34.14:754][215]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.21-08.34.14:766][215]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.21-08.34.14:766][215]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.21-08.34.14:766][215]LogInit: FAudioDevice initialized.
+[2021.05.21-08.34.14:766][215]LogAudio: Display: Audio Device (ID: 3) registered with world 'a'.
+[2021.05.21-08.34.14:776][215]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2021.05.21-08.34.14:788][215]LogWorld: Bringing World /Game/maps/UEDPIE_0_a.a up for play (max tick rate 0) at 2021.05.21-17.34.14
+[2021.05.21-08.34.14:788][215]LogWorld: Bringing up level for play took: 0.010437
+[2021.05.21-08.34.14:788][215]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.05.21-08.34.14:802][215]PIE: 서버가 로그인했습니다.
+[2021.05.21-08.34.14:802][215]PIE: 에디터에서 플레이 총 시작 시간 0.12초입니다.
+[2021.05.21-08.34.14:807][215]AnimBlueprintLog: Warning: ALS_N_FallLoop' 애니메이션은 애디티브가 아닌데 'ALS_AnimBP_C /Game/maps/UEDPIE_0_a.a:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0' 애님 인스턴스에서 애디티브를 기대하는 포즈에 재생하려 하고 있습니다.
+[2021.05.21-08.34.14:807][215]AnimBlueprintLog: Warning: ALS_N_FallLoop_Fast' 애니메이션은 애디티브가 아닌데 'ALS_AnimBP_C /Game/maps/UEDPIE_0_a.a:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0' 애님 인스턴스에서 애디티브를 기대하는 포즈에 재생하려 하고 있습니다.
+[2021.05.21-08.34.15:369][261]AnimBlueprintLog: Warning: ALS_Flail' 애니메이션은 애디티브가 아닌데 'ALS_AnimBP_C /Game/maps/UEDPIE_0_a.a:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0' 애님 인스턴스에서 애디티브를 기대하는 포즈에 재생하려 하고 있습니다.
+[2021.05.21-08.34.16:986][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-08.34.16:986][403]LogWorld: BeginTearingDown for /Game/maps/UEDPIE_0_a
+[2021.05.21-08.34.16:986][403]LogWorld: UWorld::CleanupWorld for a, bSessionEnded=true, bCleanupResources=true
+[2021.05.21-08.34.16:989][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-08.34.16:998][403]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.21-08.34.17:015][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-08.34.17:019][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-08.34.17:021][403]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.21-08.34.17:022][403]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.21-08.34.17:042][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2021.05.21-08.34.17:080][404]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.05.21-08.34.22:416][ 25]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_XLPlatform_2)
+[2021.05.21-08.34.23:426][138]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_XLPlatform_2)
+[2021.05.21-08.34.23:802][181]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_SkyDome_1)
+[2021.05.21-08.34.24:271][230]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_SkyDome_1)
+[2021.05.21-08.34.24:678][276]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_SkyDome_1)
+[2021.05.21-08.34.25:389][358]LogEditorViewport: Clicking on Actor (LMB): SimpleMovingObject_C (SimpleMovingObject)
+[2021.05.21-08.34.25:840][407]LogEditorViewport: Clicking on Actor (LMB): CableActor (CableActor1)
+[2021.05.21-08.34.39:007][899]LogEditorViewport: Clicking on Actor (LMB): SimpleMovingObject_C (SimpleMovingObject)
+[2021.05.21-08.34.58:935][ 95]EditorErrors: New page: 액터 붙임
+[2021.05.21-08.35.01:984][429]LogTemp: Repeating last play command: 선택된 뷰포트
+[2021.05.21-08.35.01:991][429]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.21-08.35.01:991][429]PIE: New page: PIE 세션: a (2021. 5. 22. 오전 2:35:01)
+[2021.05.21-08.35.01:991][429]LogPlayLevel: Creating play world package: /Game/maps/UEDPIE_0_a
+[2021.05.21-08.35.02:034][429]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043114s)
+[2021.05.21-08.35.02:035][429]LogAIModule: Creating AISystem for world a
+[2021.05.21-08.35.02:035][429]LogPlayLevel: PIE: World Init took: (0.001094s)
+[2021.05.21-08.35.02:035][429]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maps/a.a to /Game/maps/UEDPIE_0_a.a (0.044341s)
+[2021.05.21-08.35.02:042][429]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.05.21-08.35.02:044][429]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.05.21-08.35.02:044][429]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.21-08.35.02:044][429]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.21-08.35.02:044][429]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.21-08.35.02:044][429]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.21-08.35.02:044][429]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.21-08.35.02:044][429]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.21-08.35.02:044][429]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.21-08.35.02:044][429]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.21-08.35.02:044][429]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.21-08.35.02:044][429]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.21-08.35.02:049][429]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.21-08.35.02:049][429]LogAudioMixer: Display: 1: FrontRight
+[2021.05.21-08.35.02:062][429]LogAudioMixer: Display: Using Audio Device 스피커(6- USB Audio Device)
+[2021.05.21-08.35.02:063][429]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.21-08.35.02:063][429]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.21-08.35.02:063][429]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.21-08.35.02:063][429]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.21-08.35.02:063][429]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.21-08.35.02:063][429]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.21-08.35.02:064][429]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.21-08.35.02:064][429]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.21-08.35.02:064][429]LogInit: FAudioDevice initialized.
+[2021.05.21-08.35.02:064][429]LogAudio: Display: Audio Device (ID: 4) registered with world 'a'.
+[2021.05.21-08.35.02:081][429]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2021.05.21-08.35.02:091][429]LogWorld: Bringing World /Game/maps/UEDPIE_0_a.a up for play (max tick rate 0) at 2021.05.21-17.35.02
+[2021.05.21-08.35.02:092][429]LogWorld: Bringing up level for play took: 0.010291
+[2021.05.21-08.35.02:092][429]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.05.21-08.35.02:106][429]PIE: 서버가 로그인했습니다.
+[2021.05.21-08.35.02:107][429]PIE: 에디터에서 플레이 총 시작 시간 0.118초입니다.
+[2021.05.21-08.35.02:112][429]AnimBlueprintLog: Warning: ALS_N_FallLoop' 애니메이션은 애디티브가 아닌데 'ALS_AnimBP_C /Game/maps/UEDPIE_0_a.a:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0' 애님 인스턴스에서 애디티브를 기대하는 포즈에 재생하려 하고 있습니다.
+[2021.05.21-08.35.02:112][429]AnimBlueprintLog: Warning: ALS_N_FallLoop_Fast' 애니메이션은 애디티브가 아닌데 'ALS_AnimBP_C /Game/maps/UEDPIE_0_a.a:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0' 애님 인스턴스에서 애디티브를 기대하는 포즈에 재생하려 하고 있습니다.
+[2021.05.21-08.35.02:674][475]AnimBlueprintLog: Warning: ALS_Flail' 애니메이션은 애디티브가 아닌데 'ALS_AnimBP_C /Game/maps/UEDPIE_0_a.a:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0' 애님 인스턴스에서 애디티브를 기대하는 포즈에 재생하려 하고 있습니다.
+[2021.05.21-08.35.02:729][480]AnimBlueprintLog: Warning: ALS_N_Land_Light' 애니메이션은 애디티브가 아닌데 'ALS_AnimBP_C /Game/maps/UEDPIE_0_a.a:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0' 애님 인스턴스에서 애디티브를 기대하는 포즈에 재생하려 하고 있습니다.
+[2021.05.21-08.35.02:729][480]AnimBlueprintLog: Warning: ALS_N_Land_Heavy' 애니메이션은 애디티브가 아닌데 'ALS_AnimBP_C /Game/maps/UEDPIE_0_a.a:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0' 애님 인스턴스에서 애디티브를 기대하는 포즈에 재생하려 하고 있습니다.
+[2021.05.21-08.35.05:442][721]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-08.35.05:442][721]LogWorld: BeginTearingDown for /Game/maps/UEDPIE_0_a
+[2021.05.21-08.35.05:443][721]LogWorld: UWorld::CleanupWorld for a, bSessionEnded=true, bCleanupResources=true
+[2021.05.21-08.35.05:445][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-08.35.05:451][721]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.21-08.35.05:459][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-08.35.05:464][721]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-08.35.05:466][721]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.21-08.35.05:467][721]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.21-08.35.05:486][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.05.21-08.35.05:517][722]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.05.21-08.35.08:050][ 17]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TRockColumn_22)
+[2021.05.21-08.35.08:357][ 47]LogEditorViewport: Clicking on Actor (LMB): CableActor (CableActor1)
+[2021.05.21-08.35.09:807][212]Cmd: DELETE
+[2021.05.21-08.35.09:807][212]Cmd: ACTOR DELETE
+[2021.05.21-08.35.09:816][212]LogEditorActor: Deleted Actor: CableActor
+[2021.05.21-08.35.09:822][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.05.21-08.35.09:824][212]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.05.21-08.35.10:663][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maps/a" FILE="../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/maps/a.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.21-08.35.10:667][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.05.21-08.35.10:891][309]LogSavePackage: Moving '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/aECE3FE034E0D91E7990CF7923A0A414E.tmp' to '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/maps/a.umap'
+[2021.05.21-08.35.10:901][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maps/a_BuiltData" FILE="../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/maps/a_BuiltData.uasset" SILENT=true
+[2021.05.21-08.35.11:424][309]LogSavePackage: Moving '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/a_BuiltDataA288B8974A3AED4A4CA9649BDAAC6A69.tmp' to '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/maps/a_BuiltData.uasset'
+[2021.05.21-08.35.11:443][309]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2021.05.21-08.35.11:443][309]LogContentValidation: Display: MapBuildDataRegistry /Game/maps/a_BuiltData.a_BuiltData 유효성 검사
+[2021.05.21-08.35.11:443][309]LogContentValidation: Display: World /Game/maps/a.a 유효성 검사
+[2021.05.21-08.35.14:630][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.05.21-08.35.14:658][621]LogAssetEditorSubsystem: Opening Asset editor for World /Game/maps/a.a
+[2021.05.21-08.35.14:659][621]Cmd: MAP LOAD FILE="../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/maps/a.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.21-08.35.14:659][621]LightingResults: New page: 라이팅 빌드
+[2021.05.21-08.35.14:659][621]LoadErrors: New page: 맵 로드중: a.umap
+[2021.05.21-08.35.14:701][621]LogWorld: UWorld::CleanupWorld for a, bSessionEnded=true, bCleanupResources=true
+[2021.05.21-08.35.14:701][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-08.35.14:702][621]MapCheck: New page: 맵 체크
+[2021.05.21-08.35.14:702][621]LightingResults: New page: 라이팅 빌드
+[2021.05.21-08.35.14:706][621]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.21-08.35.14:740][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.05.21-08.35.14:810][621]LogAudio: Display: Audio Device (ID: 1) registered with world 'a'.
+[2021.05.21-08.35.14:811][621]LogAIModule: Creating AISystem for world a
+[2021.05.21-08.35.14:908][621]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.21-08.35.14:919][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.05.21-08.35.14:925][621]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.21-08.35.14:925][621]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.177ms.
+[2021.05.21-08.35.14:925][621]LogFileHelpers: Loading map 'a' took 0.267
+[2021.05.21-08.35.26:495][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.21-08.35.27:094][293]LogAssetEditorSubsystem: Opening Asset editor for World /Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel.ALS_DemoLevel
+[2021.05.21-08.35.27:094][293]Cmd: MAP LOAD FILE="../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/AdvancedLocomotionV4/Levels/ALS_DemoLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.21-08.35.27:094][293]LightingResults: New page: 라이팅 빌드
+[2021.05.21-08.35.27:094][293]LoadErrors: New page: 맵 로드중: ALS_DemoLevel.umap
+[2021.05.21-08.35.27:123][293]LogWorld: UWorld::CleanupWorld for a, bSessionEnded=true, bCleanupResources=true
+[2021.05.21-08.35.27:123][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-08.35.27:124][293]MapCheck: New page: 맵 체크
+[2021.05.21-08.35.27:124][293]LightingResults: New page: 라이팅 빌드
+[2021.05.21-08.35.27:133][293]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.21-08.35.27:141][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.05.21-08.35.27:142][293]LogAudio: Display: Audio Device (ID: 1) registered with world 'ALS_DemoLevel'.
+[2021.05.21-08.35.27:247][293]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.21-08.35.27:247][293]LogAIModule: Creating AISystem for world ALS_DemoLevel
+[2021.05.21-08.35.27:264][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.05.21-08.35.27:270][293]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.21-08.35.27:270][293]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.17ms.
+[2021.05.21-08.35.27:270][293]LogFileHelpers: Loading map 'ALS_DemoLevel' took 0.176
+[2021.05.21-08.35.29:336][526]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.05.21-08.35.29:603][552]LogEditorViewport: Clicking on Actor (LMB): CableActor (CableActor1)
+[2021.05.21-08.35.32:342][837]LogTemp: Repeating last play command: 선택된 뷰포트
+[2021.05.21-08.35.32:350][837]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.21-08.35.32:350][837]PIE: New page: PIE 세션: ALS_DemoLevel (2021. 5. 22. 오전 2:35:32)
+[2021.05.21-08.35.32:350][837]LogPlayLevel: Creating play world package: /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel
+[2021.05.21-08.35.32:380][837]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030061s)
+[2021.05.21-08.35.32:381][837]LogAIModule: Creating AISystem for world ALS_DemoLevel
+[2021.05.21-08.35.32:381][837]LogPlayLevel: PIE: World Init took: (0.001037s)
+[2021.05.21-08.35.32:381][837]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel.ALS_DemoLevel to /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel.ALS_DemoLevel (0.031221s)
+[2021.05.21-08.35.32:386][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.05.21-08.35.32:387][837]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.05.21-08.35.32:387][837]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.21-08.35.32:387][837]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.21-08.35.32:387][837]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.21-08.35.32:387][837]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.21-08.35.32:387][837]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.21-08.35.32:387][837]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.21-08.35.32:387][837]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.21-08.35.32:387][837]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.21-08.35.32:388][837]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.21-08.35.32:388][837]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.21-08.35.32:392][837]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.21-08.35.32:392][837]LogAudioMixer: Display: 1: FrontRight
+[2021.05.21-08.35.32:406][837]LogAudioMixer: Display: Using Audio Device 스피커(6- USB Audio Device)
+[2021.05.21-08.35.32:406][837]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.21-08.35.32:406][837]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.21-08.35.32:406][837]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.21-08.35.32:407][837]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.21-08.35.32:407][837]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.21-08.35.32:407][837]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.21-08.35.32:420][837]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.21-08.35.32:420][837]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.21-08.35.32:420][837]LogInit: FAudioDevice initialized.
+[2021.05.21-08.35.32:420][837]LogAudio: Display: Audio Device (ID: 5) registered with world 'ALS_DemoLevel'.
+[2021.05.21-08.35.32:429][837]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2021.05.21-08.35.32:439][837]LogWorld: Bringing World /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel.ALS_DemoLevel up for play (max tick rate 0) at 2021.05.21-17.35.32
+[2021.05.21-08.35.32:443][837]LogWorld: Bringing up level for play took: 0.014547
+[2021.05.21-08.35.32:444][837]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.05.21-08.35.32:450][837]PIE: 서버가 로그인했습니다.
+[2021.05.21-08.35.32:451][837]PIE: 에디터에서 플레이 총 시작 시간 0.103초입니다.
+[2021.05.21-08.35.32:455][837]AnimBlueprintLog: Warning: ALS_N_to_CLF' 애니메이션은 애디티브가 아닌데 'ALS_AnimBP_C /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel.ALS_DemoLevel:PersistentLevel.ALS_AnimMan_CharacterBP4.CharacterMesh0.ALS_AnimBP_C_0' 애님 인스턴스에서 애디티브를 기대하는 포즈에 재생하려 하고 있습니다.
+[2021.05.21-08.35.35:405][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-08.35.35:405][ 69]LogWorld: BeginTearingDown for /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel
+[2021.05.21-08.35.35:406][ 69]LogWorld: UWorld::CleanupWorld for ALS_DemoLevel, bSessionEnded=true, bCleanupResources=true
+[2021.05.21-08.35.35:408][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-08.35.35:414][ 69]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.21-08.35.35:431][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-08.35.35:435][ 69]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.21-08.35.35:436][ 69]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.21-08.35.35:437][ 69]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.21-08.35.35:452][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-08.35.35:458][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.05.21-08.35.35:496][ 70]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.05.21-08.35.36:111][134]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2021.05.21-08.35.37:808][318]LogEditorViewport: Clicking on Actor (LMB): CableActor (CableActor1)
+[2021.05.21-08.35.38:315][370]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.05.21-08.35.38:704][409]LogEditorViewport: Clicking on Actor (LMB): PhysicsConstraintActor (PhysicsConstraintActor1)
+[2021.05.21-08.35.42:063][747]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2021.05.21-08.35.42:580][800]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.05.21-08.35.43:223][869]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.05.21-08.35.43:581][907]LogEditorViewport: Clicking on Actor (LMB): CableActor (CableActor1)
+[2021.05.21-08.35.56:490][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.05.21-08.35.58:018][170]LogSlate: Window '콘텐츠 저장' being destroyed
+[2021.05.21-08.35.58:166][170]LogAssetEditorSubsystem: Opening Asset editor for World /Game/maps/a.a
+[2021.05.21-08.35.58:166][170]Cmd: MAP LOAD FILE="../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/maps/a.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.21-08.35.58:167][170]LightingResults: New page: 라이팅 빌드
+[2021.05.21-08.35.58:167][170]LoadErrors: New page: 맵 로드중: a.umap
+[2021.05.21-08.35.58:207][170]LogWorld: UWorld::CleanupWorld for ALS_DemoLevel, bSessionEnded=true, bCleanupResources=true
+[2021.05.21-08.35.58:207][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-08.35.58:207][170]MapCheck: New page: 맵 체크
+[2021.05.21-08.35.58:207][170]LightingResults: New page: 라이팅 빌드
+[2021.05.21-08.35.58:215][170]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.21-08.35.58:223][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2021.05.21-08.35.58:224][170]LogAudio: Display: Audio Device (ID: 1) registered with world 'a'.
+[2021.05.21-08.35.58:316][170]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.21-08.35.58:316][170]LogAIModule: Creating AISystem for world a
+[2021.05.21-08.35.58:328][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.05.21-08.35.58:334][170]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.21-08.35.58:334][170]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.174ms.
+[2021.05.21-08.35.58:334][170]LogFileHelpers: Loading map 'a' took 0.168
+[2021.05.21-08.36.06:520][108]LogEditor: Attempting to add actor of class 'CableActor' to level at -6290.00,-8660.00,5610.00
+[2021.05.21-08.36.07:009][160]LogEditor: Attempting to add actor of class 'CableActor' to level at -7130.00,-6920.00,6100.00
+[2021.05.21-08.36.46:576][766]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.05.21-08.36.47:212][837]LogEditorViewport: Clicking on Actor (LMB): SimpleMovingObject_C (SimpleMovingObject)
+[2021.05.21-08.37.01:505][510]LogEditorViewport: Clicking on Actor (LMB): CableActor (CableActor1)
+[2021.05.21-08.37.11:433][642]LogEditorViewport: Clicking on Actor (LMB): SimpleMovingObject_C (SimpleMovingObjecttopnal)
+[2021.05.21-08.37.41:872][140]LogEditorViewport: Clicking on Actor (LMB): SimpleMovingObject_C (SimpleMovingObjecttopnal)
+[2021.05.21-08.37.49:333][  3]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TRockColumn_16)
+[2021.05.21-08.37.49:999][ 77]LogEditorViewport: Clicking on Actor (LMB): CableActor (CableActor1)
+[2021.05.21-08.38.36:556][480]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.05.21-08.38.37:191][552]LogEditorViewport: Clicking on Actor (LMB): SimpleMovingObject_C (SimpleMovingObjecttopnal)
+[2021.05.21-08.38.38:655][722]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.05.21-08.38.39:309][796]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.05.21-08.38.39:715][843]LogEditorViewport: Clicking on Actor (LMB): SimpleMovingObject_C (SimpleMovingObjecttopnal)
+[2021.05.21-08.38.48:454][858]Cmd: TRANSACTION UNDO
+[2021.05.21-08.38.48:454][858]LogEditorTransaction: Undo 액터 이동
+[2021.05.21-08.38.49:711][962]LogEditorViewport: Clicking on Actor (LMB): SimpleMovingObject_C (SimpleMovingObjecttopnal)
+[2021.05.21-08.38.50:748][ 85]LogEditorViewport: Clicking on Actor (LMB): SimpleMovingObject_C (SimpleMovingObjecttopnal)
+[2021.05.21-08.38.55:562][658]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.05.21-08.38.56:446][759]LogEditorViewport: Clicking on Actor (LMB): SimpleMovingObject_C (SimpleMovingObjecttopnal)
+[2021.05.21-08.38.57:616][895]LogEditorViewport: Clicking on Actor (LMB): SimpleMovingObject_C (SimpleMovingObjecttopnal)
+[2021.05.21-08.39.03:449][586]Cmd: TRANSACTION UNDO
+[2021.05.21-08.39.03:449][586]LogEditorTransaction: Undo 액터 이동
+[2021.05.21-08.39.09:468][253]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TRockColumn_21)
+[2021.05.21-08.39.10:112][325]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PixelWater_3)
+[2021.05.21-08.39.49:704][401]LogEditorViewport: Clicking on Actor (LMB): SimpleMovingObject_C (SimpleMovingObjecttopnal)
+[2021.05.21-08.39.55:897][136]LogTemp: Repeating last play command: 선택된 뷰포트
+[2021.05.21-08.39.55:905][136]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.21-08.39.55:905][136]PIE: New page: PIE 세션: a (2021. 5. 22. 오전 2:39:55)
+[2021.05.21-08.39.55:932][136]LogPlayLevel: Creating play world package: /Game/maps/UEDPIE_0_a
+[2021.05.21-08.39.55:975][136]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043098s)
+[2021.05.21-08.39.55:976][136]LogAIModule: Creating AISystem for world a
+[2021.05.21-08.39.55:976][136]LogPlayLevel: PIE: World Init took: (0.001708s)
+[2021.05.21-08.39.55:977][136]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maps/a.a to /Game/maps/UEDPIE_0_a.a (0.045026s)
+[2021.05.21-08.39.55:997][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.05.21-08.39.55:999][136]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.05.21-08.39.55:999][136]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.21-08.39.55:999][136]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.21-08.39.55:999][136]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.21-08.39.55:999][136]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.21-08.39.55:999][136]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.21-08.39.55:999][136]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.21-08.39.55:999][136]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.21-08.39.55:999][136]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.21-08.39.56:000][136]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.21-08.39.56:000][136]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.21-08.39.56:005][136]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.21-08.39.56:005][136]LogAudioMixer: Display: 1: FrontRight
+[2021.05.21-08.39.56:018][136]LogAudioMixer: Display: Using Audio Device 스피커(6- USB Audio Device)
+[2021.05.21-08.39.56:018][136]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.21-08.39.56:018][136]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.21-08.39.56:018][136]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.21-08.39.56:019][136]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.21-08.39.56:019][136]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.21-08.39.56:019][136]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.21-08.39.56:031][136]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.21-08.39.56:031][136]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.21-08.39.56:031][136]LogInit: FAudioDevice initialized.
+[2021.05.21-08.39.56:031][136]LogAudio: Display: Audio Device (ID: 6) registered with world 'a'.
+[2021.05.21-08.39.56:036][136]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2021.05.21-08.39.56:047][136]LogWorld: Bringing World /Game/maps/UEDPIE_0_a.a up for play (max tick rate 0) at 2021.05.21-17.39.56
+[2021.05.21-08.39.56:047][136]LogWorld: Bringing up level for play took: 0.010193
+[2021.05.21-08.39.56:047][136]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.05.21-08.39.56:061][136]PIE: 서버가 로그인했습니다.
+[2021.05.21-08.39.56:062][136]PIE: 에디터에서 플레이 총 시작 시간 0.16초입니다.
+[2021.05.21-08.39.56:067][136]AnimBlueprintLog: Warning: ALS_N_FallLoop' 애니메이션은 애디티브가 아닌데 'ALS_AnimBP_C /Game/maps/UEDPIE_0_a.a:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0' 애님 인스턴스에서 애디티브를 기대하는 포즈에 재생하려 하고 있습니다.
+[2021.05.21-08.39.56:067][136]AnimBlueprintLog: Warning: ALS_N_FallLoop_Fast' 애니메이션은 애디티브가 아닌데 'ALS_AnimBP_C /Game/maps/UEDPIE_0_a.a:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0' 애님 인스턴스에서 애디티브를 기대하는 포즈에 재생하려 하고 있습니다.
+[2021.05.21-08.39.56:583][181]AnimBlueprintLog: Warning: ALS_Flail' 애니메이션은 애디티브가 아닌데 'ALS_AnimBP_C /Game/maps/UEDPIE_0_a.a:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0' 애님 인스턴스에서 애디티브를 기대하는 포즈에 재생하려 하고 있습니다.
+[2021.05.21-08.39.57:570][282]AnimBlueprintLog: Warning: ALS_N_Land_Heavy' 애니메이션은 애디티브가 아닌데 'ALS_AnimBP_C /Game/maps/UEDPIE_0_a.a:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0' 애님 인스턴스에서 애디티브를 기대하는 포즈에 재생하려 하고 있습니다.
+[2021.05.21-08.40.00:385][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-08.40.00:385][541]LogWorld: BeginTearingDown for /Game/maps/UEDPIE_0_a
+[2021.05.21-08.40.00:385][541]LogWorld: UWorld::CleanupWorld for a, bSessionEnded=true, bCleanupResources=true
+[2021.05.21-08.40.00:390][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-08.40.00:397][541]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.21-08.40.00:406][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-08.40.00:412][541]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.21-08.40.00:413][541]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.21-08.40.00:414][541]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.21-08.40.00:428][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-08.40.00:434][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2021.05.21-08.40.00:472][542]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.05.21-08.40.01:676][683]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TRockColumn_28)
+[2021.05.21-08.40.02:196][740]LogEditorViewport: Clicking on Actor (LMB): CableActor (CableActor1)
+[2021.05.21-08.40.03:520][893]Cmd: DELETE
+[2021.05.21-08.40.03:520][893]Cmd: ACTOR DELETE
+[2021.05.21-08.40.03:529][893]LogEditorActor: Deleted Actor: CableActor
+[2021.05.21-08.40.03:534][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.05.21-08.40.03:535][893]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.05.21-08.40.18:254][658]LogEditorViewport: Clicking on Actor (LMB): SimpleMovingObject_C (SimpleMovingObjecttopnal)
+[2021.05.21-08.40.38:370][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2021.05.21-08.40.44:378][392]LogContentBrowser: Attempting asset rename: SimpleMovingObject_2 -> DamageMovingObject_2
+[2021.05.21-08.40.44:405][392]LogMetaData: Removing '/Game/NewBluePrint/DamageMovingObject_2.SKEL_DamageMovingObject_2_C' ref from Metadata '/Game/NewBluePrint/SimpleMovingObject_2.PackageMetaData'
+[2021.05.21-08.40.44:405][392]LogMetaData: Removing '/Game/NewBluePrint/DamageMovingObject_2.DamageMovingObject_2_C' ref from Metadata '/Game/NewBluePrint/SimpleMovingObject_2.PackageMetaData'
+[2021.05.21-08.40.44:405][392]LogMetaData: Removing '/Game/NewBluePrint/DamageMovingObject_2.SKEL_DamageMovingObject_2_C:ReceiveTick' ref from Metadata '/Game/NewBluePrint/SimpleMovingObject_2.PackageMetaData'
+[2021.05.21-08.40.44:405][392]LogMetaData: Removing '/Game/NewBluePrint/DamageMovingObject_2.SKEL_DamageMovingObject_2_C:UserConstructionScript' ref from Metadata '/Game/NewBluePrint/SimpleMovingObject_2.PackageMetaData'
+[2021.05.21-08.40.44:405][392]LogMetaData: Removing '/Game/NewBluePrint/DamageMovingObject_2.DamageMovingObject_2_C:ReceiveTick' ref from Metadata '/Game/NewBluePrint/SimpleMovingObject_2.PackageMetaData'
+[2021.05.21-08.40.44:405][392]LogMetaData: Removing '/Game/NewBluePrint/DamageMovingObject_2.DamageMovingObject_2_C:UserConstructionScript' ref from Metadata '/Game/NewBluePrint/SimpleMovingObject_2.PackageMetaData'
+[2021.05.21-08.40.44:483][392]LogSavePackage: Moving '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/DamageMovingObject_2CFE5D1854E2069EA596A8BB2C9EC53A0.tmp' to '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/NewBluePrint/DamageMovingObject_2.uasset'
+[2021.05.21-08.40.44:532][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.05.21-08.40.44:546][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2021.05.21-08.40.44:551][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.05.21-08.40.44:636][392]AssetCheck: New page: 애셋 저장: DamageMovingObject_2
+[2021.05.21-08.40.44:636][392]LogContentValidation: Display: Blueprint /Game/NewBluePrint/DamageMovingObject_2.DamageMovingObject_2 유효성 검사
+[2021.05.21-08.40.49:442][747]LogContentBrowser: Attempting asset rename: DamageMovingObject_2 -> DamageMovingObject
+[2021.05.21-08.40.49:470][747]LogMetaData: Removing '/Game/NewBluePrint/DamageMovingObject.DamageMovingObject_C' ref from Metadata '/Game/NewBluePrint/DamageMovingObject_2.PackageMetaData'
+[2021.05.21-08.40.49:470][747]LogMetaData: Removing '/Game/NewBluePrint/DamageMovingObject.DamageMovingObject_C:ReceiveTick' ref from Metadata '/Game/NewBluePrint/DamageMovingObject_2.PackageMetaData'
+[2021.05.21-08.40.49:470][747]LogMetaData: Removing '/Game/NewBluePrint/DamageMovingObject.DamageMovingObject_C:UserConstructionScript' ref from Metadata '/Game/NewBluePrint/DamageMovingObject_2.PackageMetaData'
+[2021.05.21-08.40.49:470][747]LogMetaData: Removing '/Game/NewBluePrint/DamageMovingObject.SKEL_DamageMovingObject_C' ref from Metadata '/Game/NewBluePrint/DamageMovingObject_2.PackageMetaData'
+[2021.05.21-08.40.49:470][747]LogMetaData: Removing '/Game/NewBluePrint/DamageMovingObject.SKEL_DamageMovingObject_C:ReceiveTick' ref from Metadata '/Game/NewBluePrint/DamageMovingObject_2.PackageMetaData'
+[2021.05.21-08.40.49:470][747]LogMetaData: Removing '/Game/NewBluePrint/DamageMovingObject.SKEL_DamageMovingObject_C:UserConstructionScript' ref from Metadata '/Game/NewBluePrint/DamageMovingObject_2.PackageMetaData'
+[2021.05.21-08.40.49:540][747]LogSavePackage: Moving '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/DamageMovingObjectDB19A6CE4EDFE3829D2937B4BB01FC82.tmp' to '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/NewBluePrint/DamageMovingObject.uasset'
+[2021.05.21-08.40.49:584][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.05.21-08.40.49:595][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2021.05.21-08.40.49:599][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.05.21-08.40.49:684][747]AssetCheck: New page: 애셋 저장: DamageMovingObject
+[2021.05.21-08.40.49:684][747]LogContentValidation: Display: Blueprint /Game/NewBluePrint/DamageMovingObject.DamageMovingObject 유효성 검사
+[2021.05.21-08.40.50:838][836]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NewBluePrint/DamageMovingObject.DamageMovingObject
+[2021.05.21-08.40.51:006][836]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2021.05.21-08.40.51:949][836]LogSlate: Took 0.000314 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.05.21-08.40.56:190][121]LogSavePackage: Moving '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/DamageMovingObjectBBFC195C469720D672BEF9B5632D454A.tmp' to '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/NewBluePrint/DamageMovingObject.uasset'
+[2021.05.21-08.40.56:203][121]AssetCheck: New page: 애셋 저장: DamageMovingObject
+[2021.05.21-08.40.56:203][121]LogContentValidation: Display: Blueprint /Game/NewBluePrint/DamageMovingObject.DamageMovingObject 유효성 검사
+[2021.05.21-08.41.23:956][586]LogRenderer: Reallocating scene render targets to support 1128x812 Format 10 NumSamples 1 (Frame:1).
+[2021.05.21-08.41.26:329][777]LogEditorTransaction: Undo Mesh 편집
+[2021.05.21-08.41.34:087][250]BlueprintLog: New page: DamageMovingObject 컴파일
+[2021.05.21-08.41.34:171][250]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2021.05.21-08.41.34:204][250]LogSlate: Took 0.000379 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.05.21-08.41.34:207][250]LogSlate: Took 0.002249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2021.05.21-08.41.34:655][274]LogSavePackage: Moving '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/DamageMovingObject0E8286BE4EF7FA32633554B111C06EEF.tmp' to '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/NewBluePrint/DamageMovingObject.uasset'
+[2021.05.21-08.41.34:668][274]AssetCheck: New page: 애셋 저장: DamageMovingObject
+[2021.05.21-08.41.34:668][274]LogContentValidation: Display: Blueprint /Game/NewBluePrint/DamageMovingObject.DamageMovingObject 유효성 검사
+[2021.05.21-08.41.41:700][792]BlueprintLog: New page: DamageMovingObject 컴파일
+[2021.05.21-08.41.41:749][792]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2021.05.21-08.41.42:398][828]LogSavePackage: Moving '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/DamageMovingObject2FD478874C2355EEB6CECAB820149D49.tmp' to '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/NewBluePrint/DamageMovingObject.uasset'
+[2021.05.21-08.41.42:413][828]AssetCheck: New page: 애셋 저장: DamageMovingObject
+[2021.05.21-08.41.42:413][828]LogContentValidation: Display: Blueprint /Game/NewBluePrint/DamageMovingObject.DamageMovingObject 유효성 검사
+[2021.05.21-08.43.56:630][ 34]LogSavePackage: Moving '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/DamageMovingObject9311D4CE4E4A736FAA5DBEB9EDE92887.tmp' to '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/NewBluePrint/DamageMovingObject.uasset'
+[2021.05.21-08.43.56:646][ 34]AssetCheck: New page: 애셋 저장: DamageMovingObject
+[2021.05.21-08.43.56:646][ 34]LogContentValidation: Display: Blueprint /Game/NewBluePrint/DamageMovingObject.DamageMovingObject 유효성 검사
+[2021.05.21-08.43.58:612][185]LogSlate: Window 'DamageMovingObject' being destroyed
+[2021.05.21-08.43.58:616][185]LogSlate: Window 'DamageMovingObject' being destroyed
+[2021.05.21-08.43.58:648][185]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.05.21-08.43.58:648][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-08.44.07:769][  3]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NewBluePrint/DamageMovingObject.DamageMovingObject
+[2021.05.21-08.44.19:591][777]BlueprintLog: New page: DamageMovingObject 컴파일
+[2021.05.21-08.44.19:684][777]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2021.05.21-08.44.23:295][ 40]LogSavePackage: Moving '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/DamageMovingObject7E6D733C47D0361C7CD23691082AD177.tmp' to '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/NewBluePrint/DamageMovingObject.uasset'
+[2021.05.21-08.44.23:311][ 40]AssetCheck: New page: 애셋 저장: DamageMovingObject
+[2021.05.21-08.44.23:311][ 40]LogContentValidation: Display: Blueprint /Game/NewBluePrint/DamageMovingObject.DamageMovingObject 유효성 검사
+[2021.05.21-08.44.24:167][105]LogSlate: Window 'DamageMovingObject' being destroyed
+[2021.05.21-08.44.24:172][105]LogSlate: Window 'DamageMovingObject' being destroyed
+[2021.05.21-08.44.24:201][105]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.05.21-08.44.24:201][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-08.44.26:219][332]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.05.21-08.44.26:456][356]Cmd: DELETE
+[2021.05.21-08.44.26:456][356]Cmd: ACTOR DELETE
+[2021.05.21-08.44.26:464][356]LogEditorActor: Deleted Actor: Landscape
+[2021.05.21-08.44.26:535][356]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2021.05.21-08.44.26:539][356]LogEditorActor: Deleted 1 Actors (0.082 secs)
+[2021.05.21-08.44.27:918][519]Cmd: TRANSACTION UNDO
+[2021.05.21-08.44.27:919][519]LogEditorTransaction: Undo 액터 삭제
+[2021.05.21-08.44.32:837][968]LogEditorViewport: Clicking on Actor (LMB): DamageMovingObject_C (DamageMovingObject)
+[2021.05.21-08.44.34:239][131]Cmd: DELETE
+[2021.05.21-08.44.34:240][131]Cmd: ACTOR DELETE
+[2021.05.21-08.44.34:249][131]LogEditorActor: Deleted Actor: DamageMovingObject_C
+[2021.05.21-08.44.34:267][131]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.05.21-08.44.34:271][131]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2021.05.21-08.44.42:727][111]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NewBluePrint/DamageMovingObject.DamageMovingObject
+[2021.05.21-08.46.16:060][696]BlueprintLog: New page: DamageMovingObject 컴파일
+[2021.05.21-08.46.16:101][696]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.05.21-08.46.16:579][728]LogSavePackage: Moving '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/DamageMovingObject6495E92C4D94F9F76E52BEA3FDDDE145.tmp' to '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/NewBluePrint/DamageMovingObject.uasset'
+[2021.05.21-08.46.16:596][728]AssetCheck: New page: 애셋 저장: DamageMovingObject
+[2021.05.21-08.46.16:596][728]LogContentValidation: Display: Blueprint /Game/NewBluePrint/DamageMovingObject.DamageMovingObject 유효성 검사
+[2021.05.21-08.46.17:742][838]LogSavePackage: Moving '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/DamageMovingObjectCE078CB14D89257811FB5B95002295B6.tmp' to '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/NewBluePrint/DamageMovingObject.uasset'
+[2021.05.21-08.46.17:754][838]AssetCheck: New page: 애셋 저장: DamageMovingObject
+[2021.05.21-08.46.17:754][838]LogContentValidation: Display: Blueprint /Game/NewBluePrint/DamageMovingObject.DamageMovingObject 유효성 검사
+[2021.05.21-08.47.11:957][461]LogSavePackage: Moving '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/DamageMovingObjectA825AA03436EDFCCA68C2D8BFC5A05AD.tmp' to '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/NewBluePrint/DamageMovingObject.uasset'
+[2021.05.21-08.47.11:971][461]AssetCheck: New page: 애셋 저장: DamageMovingObject
+[2021.05.21-08.47.11:972][461]LogContentValidation: Display: Blueprint /Game/NewBluePrint/DamageMovingObject.DamageMovingObject 유효성 검사
+[2021.05.21-08.47.18:146][859]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/PolygonTown/Meshes/Items/SM_Item_Blade_01.SM_Item_Blade_01
+[2021.05.21-08.47.18:941][860]LogRenderer: Reallocating scene render targets to support 1260x1116 Format 10 NumSamples 1 (Frame:1).
+[2021.05.21-08.47.19:054][860]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2021.05.21-08.47.19:279][860]LogSavePackage: Moving '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/a_Auto1E4D434A34E06478DEEEE80883F8ADA5A.tmp' to '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/Autosaves/Game/maps/a_Auto1.umap'
+[2021.05.21-08.47.19:282][860]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/maps/a' took 0.288
+[2021.05.21-08.47.19:282][860]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.288
+[2021.05.21-08.47.32:045][ 97]LogStaticMesh: SM_Item_Blade_01 스태틱 메시 빌드중...
+[2021.05.21-08.47.32:045][ 97]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.05.21-08.47.32:047][ 97]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonTown/Meshes/Items/SM_Item_Blade_01.SM_Item_Blade_01
+[2021.05.21-08.48.02:573][420]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.05.21-08.48.02:597][420]LogSavePackage: Moving '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/SM_Item_Blade_0195A74AFD49FBDC576B10CB9FA8204344.tmp' to '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/PolygonTown/Meshes/Items/SM_Item_Blade_01.uasset'
+[2021.05.21-08.48.02:609][420]AssetCheck: New page: 애셋 저장: SM_Item_Blade_01
+[2021.05.21-08.48.02:609][420]LogContentValidation: Display: StaticMesh /Game/PolygonTown/Meshes/Items/SM_Item_Blade_01.SM_Item_Blade_01 유효성 검사
+[2021.05.21-08.48.04:079][575]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.05.21-08.48.04:083][575]LogSavePackage: Moving '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/SM_Item_Blade_01E0E551C34CE26DAFE66880ADA0636AA3.tmp' to '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/PolygonTown/Meshes/Items/SM_Item_Blade_01.uasset'
+[2021.05.21-08.48.04:094][575]AssetCheck: New page: 애셋 저장: SM_Item_Blade_01
+[2021.05.21-08.48.04:094][575]LogContentValidation: Display: StaticMesh /Game/PolygonTown/Meshes/Items/SM_Item_Blade_01.SM_Item_Blade_01 유효성 검사
+[2021.05.21-08.48.13:276][480]LogSavePackage: Moving '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/SM_Item_Blade_01A2F040004FF74C312BD8D4BC01F14F8D.tmp' to '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/PolygonTown/Meshes/Items/SM_Item_Blade_01.uasset'
+[2021.05.21-08.48.13:299][480]AssetCheck: New page: 애셋 저장: SM_Item_Blade_01
+[2021.05.21-08.48.13:299][480]LogContentValidation: Display: StaticMesh /Game/PolygonTown/Meshes/Items/SM_Item_Blade_01.SM_Item_Blade_01 유효성 검사
+[2021.05.21-08.48.13:664][517]LogSavePackage: Moving '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/SM_Item_Blade_01942173894EF8F59A6538BC946EA06AFB.tmp' to '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/PolygonTown/Meshes/Items/SM_Item_Blade_01.uasset'
+[2021.05.21-08.48.13:682][517]AssetCheck: New page: 애셋 저장: SM_Item_Blade_01
+[2021.05.21-08.48.13:682][517]LogContentValidation: Display: StaticMesh /Game/PolygonTown/Meshes/Items/SM_Item_Blade_01.SM_Item_Blade_01 유효성 검사
+[2021.05.21-08.48.14:472][597]LogSlate: Window 'SM_Item_Blade_01' being destroyed
+[2021.05.21-08.48.14:478][597]LogSlate: Window 'SM_Item_Blade_01' being destroyed
+[2021.05.21-08.48.14:506][597]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.05.21-08.48.14:507][597]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-08.48.14:567][597]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2021.05.21-08.48.14:567][597]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-08.48.28:208][328]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NewBluePrint/DamageMovingObject.DamageMovingObject
+[2021.05.21-08.49.02:298][454]LogSavePackage: Moving '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/DamageMovingObject603E807E4D8CEB36E7A11CBFDC2DD71D.tmp' to '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/NewBluePrint/DamageMovingObject.uasset'
+[2021.05.21-08.49.02:321][454]AssetCheck: New page: 애셋 저장: DamageMovingObject
+[2021.05.21-08.49.02:321][454]LogContentValidation: Display: Blueprint /Game/NewBluePrint/DamageMovingObject.DamageMovingObject 유효성 검사
+[2021.05.21-08.49.02:837][507]BlueprintLog: New page: DamageMovingObject 컴파일
+[2021.05.21-08.49.02:916][507]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2021.05.21-08.49.03:331][540]LogSavePackage: Moving '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/DamageMovingObject2EFC05F34901E71AF7F26D9194C151D7.tmp' to '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/NewBluePrint/DamageMovingObject.uasset'
+[2021.05.21-08.49.03:351][540]AssetCheck: New page: 애셋 저장: DamageMovingObject
+[2021.05.21-08.49.03:351][540]LogContentValidation: Display: Blueprint /Game/NewBluePrint/DamageMovingObject.DamageMovingObject 유효성 검사
+[2021.05.21-08.49.08:283][810]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NewBluePrint/mine기본.mine기본
+[2021.05.21-08.49.21:060][952]LogEditorTransaction: Undo 노드 이동
+[2021.05.21-08.49.22:783][ 78]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2021.05.21-08.49.22:783][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-08.49.30:692][814]LogSavePackage: Moving '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/DamageMovingObject3A10F749406941373A325C91F3EEFA5E.tmp' to '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/NewBluePrint/DamageMovingObject.uasset'
+[2021.05.21-08.49.30:711][814]AssetCheck: New page: 애셋 저장: DamageMovingObject
+[2021.05.21-08.49.30:711][814]LogContentValidation: Display: Blueprint /Game/NewBluePrint/DamageMovingObject.DamageMovingObject 유효성 검사
+[2021.05.21-08.49.32:226][946]BlueprintLog: New page: DamageMovingObject 컴파일
+[2021.05.21-08.49.32:303][946]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2021.05.21-08.49.32:629][967]LogSavePackage: Moving '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/DamageMovingObjectED9A2D77458A9F7D3E8A6BB29F2A92BA.tmp' to '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/NewBluePrint/DamageMovingObject.uasset'
+[2021.05.21-08.49.32:647][967]AssetCheck: New page: 애셋 저장: DamageMovingObject
+[2021.05.21-08.49.32:647][967]LogContentValidation: Display: Blueprint /Game/NewBluePrint/DamageMovingObject.DamageMovingObject 유효성 검사
+[2021.05.21-08.49.41:060][619]BlueprintLog: New page: DamageMovingObject 컴파일
+[2021.05.21-08.49.41:101][619]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2021.05.21-08.49.41:902][688]LogSavePackage: Moving '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/DamageMovingObject3B549CAA42534B117CB7CCA27F76F1BA.tmp' to '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/NewBluePrint/DamageMovingObject.uasset'
+[2021.05.21-08.49.41:918][688]AssetCheck: New page: 애셋 저장: DamageMovingObject
+[2021.05.21-08.49.41:918][688]LogContentValidation: Display: Blueprint /Game/NewBluePrint/DamageMovingObject.DamageMovingObject 유효성 검사
+[2021.05.21-08.49.45:891][949]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NewBluePrint/mine기본.mine기본
+[2021.05.21-08.49.48:453][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewBluePrint/mine기본" FILE="../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/NewBluePrint/mine기본.uasset" SILENT=true
+[2021.05.21-08.49.48:468][ 66]LogSavePackage: Moving '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/mine기본D42F8988405B4FB5ED593582F1554439.tmp' to '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/NewBluePrint/mine기본.uasset'
+[2021.05.21-08.49.48:486][ 66]AssetCheck: New page: 애셋 저장: mine기본
+[2021.05.21-08.49.48:486][ 66]LogContentValidation: Display: Blueprint /Game/NewBluePrint/mine기본.mine기본 유효성 검사
+[2021.05.21-08.49.49:148][117]BlueprintLog: New page: mine기본 컴파일
+[2021.05.21-08.49.49:205][117]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.05.21-08.49.49:639][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewBluePrint/mine기본" FILE="../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/NewBluePrint/mine기본.uasset" SILENT=true
+[2021.05.21-08.49.49:654][145]LogSavePackage: Moving '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/mine기본2AE0E5A04314BEFCE32725BE20208CF5.tmp' to '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/NewBluePrint/mine기본.uasset'
+[2021.05.21-08.49.49:668][145]AssetCheck: New page: 애셋 저장: mine기본
+[2021.05.21-08.49.49:668][145]LogContentValidation: Display: Blueprint /Game/NewBluePrint/mine기본.mine기본 유효성 검사
+[2021.05.21-08.50.05:377][496]BlueprintLog: New page: DamageMovingObject 컴파일
+[2021.05.21-08.50.05:422][496]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.05.21-08.50.05:679][509]LogSavePackage: Moving '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/DamageMovingObject4E0339E042E5668C1F54ED98E13E5CBD.tmp' to '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/NewBluePrint/DamageMovingObject.uasset'
+[2021.05.21-08.50.05:697][509]AssetCheck: New page: 애셋 저장: DamageMovingObject
+[2021.05.21-08.50.05:698][509]LogContentValidation: Display: Blueprint /Game/NewBluePrint/DamageMovingObject.DamageMovingObject 유효성 검사
+[2021.05.21-08.50.07:222][619]LogTemp: Repeating last play command: 선택된 뷰포트
+[2021.05.21-08.50.07:230][619]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2021.05.21-08.50.07:230][619]LogPlayLevel: [PlayLevel] Compiling a before play...
+[2021.05.21-08.50.07:277][619]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2021.05.21-08.50.07:278][619]LogPlayLevel: PlayLevel: Blueprint regeneration took 47 ms (1 blueprints)
+[2021.05.21-08.50.07:278][619]PIE: New page: PIE 세션: a (2021. 5. 22. 오전 2:50:07)
+[2021.05.21-08.50.07:309][619]LogPlayLevel: Creating play world package: /Game/maps/UEDPIE_0_a
+[2021.05.21-08.50.07:351][619]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041656s)
+[2021.05.21-08.50.07:351][619]LogAIModule: Creating AISystem for world a
+[2021.05.21-08.50.07:352][619]LogPlayLevel: PIE: World Init took: (0.000948s)
+[2021.05.21-08.50.07:352][619]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maps/a.a to /Game/maps/UEDPIE_0_a.a (0.042752s)
+[2021.05.21-08.50.07:373][619]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.05.21-08.50.07:373][619]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.05.21-08.50.07:373][619]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.21-08.50.07:373][619]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.21-08.50.07:373][619]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.21-08.50.07:373][619]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.21-08.50.07:373][619]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.21-08.50.07:373][619]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.21-08.50.07:374][619]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.21-08.50.07:374][619]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.21-08.50.07:374][619]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.21-08.50.07:374][619]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.21-08.50.07:379][619]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.21-08.50.07:379][619]LogAudioMixer: Display: 1: FrontRight
+[2021.05.21-08.50.07:392][619]LogAudioMixer: Display: Using Audio Device 스피커(6- USB Audio Device)
+[2021.05.21-08.50.07:392][619]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.21-08.50.07:392][619]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.21-08.50.07:392][619]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.21-08.50.07:392][619]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.21-08.50.07:392][619]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.21-08.50.07:392][619]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.21-08.50.07:404][619]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.21-08.50.07:404][619]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.21-08.50.07:404][619]LogInit: FAudioDevice initialized.
+[2021.05.21-08.50.07:405][619]LogAudio: Display: Audio Device (ID: 7) registered with world 'a'.
+[2021.05.21-08.50.07:412][619]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2021.05.21-08.50.07:422][619]LogWorld: Bringing World /Game/maps/UEDPIE_0_a.a up for play (max tick rate 0) at 2021.05.21-17.50.07
+[2021.05.21-08.50.07:422][619]LogWorld: Bringing up level for play took: 0.010189
+[2021.05.21-08.50.07:422][619]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2021.05.21-08.50.07:436][619]PIE: 서버가 로그인했습니다.
+[2021.05.21-08.50.07:437][619]PIE: 에디터에서 플레이 총 시작 시간 0.21초입니다.
+[2021.05.21-08.50.07:441][619]AnimBlueprintLog: Warning: ALS_N_FallLoop' 애니메이션은 애디티브가 아닌데 'ALS_AnimBP_C /Game/maps/UEDPIE_0_a.a:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0' 애님 인스턴스에서 애디티브를 기대하는 포즈에 재생하려 하고 있습니다.
+[2021.05.21-08.50.07:441][619]AnimBlueprintLog: Warning: ALS_N_FallLoop_Fast' 애니메이션은 애디티브가 아닌데 'ALS_AnimBP_C /Game/maps/UEDPIE_0_a.a:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0' 애님 인스턴스에서 애디티브를 기대하는 포즈에 재생하려 하고 있습니다.
+[2021.05.21-08.50.07:905][650]AnimBlueprintLog: Warning: ALS_Flail' 애니메이션은 애디티브가 아닌데 'ALS_AnimBP_C /Game/maps/UEDPIE_0_a.a:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0' 애님 인스턴스에서 애디티브를 기대하는 포즈에 재생하려 하고 있습니다.
+[2021.05.21-08.50.21:383][522]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-08.50.21:383][522]LogWorld: BeginTearingDown for /Game/maps/UEDPIE_0_a
+[2021.05.21-08.50.21:384][522]LogWorld: UWorld::CleanupWorld for a, bSessionEnded=true, bCleanupResources=true
+[2021.05.21-08.50.21:387][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-08.50.21:391][522]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.21-08.50.21:397][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-08.50.21:421][522]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.21-08.50.21:422][522]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.21-08.50.21:423][522]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.21-08.50.21:436][522]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-08.50.21:447][522]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.05.21-08.50.21:480][523]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2021.05.21-08.51.38:450][540]BlueprintLog: New page: DamageMovingObject 컴파일
+[2021.05.21-08.51.38:498][540]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2021.05.21-08.51.39:197][591]LogSavePackage: Moving '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/DamageMovingObjectD926176F4EAE231AB42CF7A5041A720F.tmp' to '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/NewBluePrint/DamageMovingObject.uasset'
+[2021.05.21-08.51.39:211][591]AssetCheck: New page: 애셋 저장: DamageMovingObject
+[2021.05.21-08.51.39:211][591]LogContentValidation: Display: Blueprint /Game/NewBluePrint/DamageMovingObject.DamageMovingObject 유효성 검사
+[2021.05.21-08.51.52:022][745]BlueprintLog: New page: DamageMovingObject 컴파일
+[2021.05.21-08.51.52:068][745]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.05.21-08.51.52:802][799]LogSavePackage: Moving '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/DamageMovingObject4B4CEA8D450461FCA1D34D9FE1B3CF90.tmp' to '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/NewBluePrint/DamageMovingObject.uasset'
+[2021.05.21-08.51.52:817][799]AssetCheck: New page: 애셋 저장: DamageMovingObject
+[2021.05.21-08.51.52:817][799]LogContentValidation: Display: Blueprint /Game/NewBluePrint/DamageMovingObject.DamageMovingObject 유효성 검사
+[2021.05.21-08.51.53:822][888]LogTemp: Repeating last play command: 선택된 뷰포트
+[2021.05.21-08.51.53:830][888]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.21-08.51.53:830][888]PIE: New page: PIE 세션: a (2021. 5. 22. 오전 2:51:53)
+[2021.05.21-08.51.53:851][888]LogPlayLevel: Creating play world package: /Game/maps/UEDPIE_0_a
+[2021.05.21-08.51.53:891][888]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040492s)
+[2021.05.21-08.51.53:892][888]LogAIModule: Creating AISystem for world a
+[2021.05.21-08.51.53:892][888]LogPlayLevel: PIE: World Init took: (0.001127s)
+[2021.05.21-08.51.53:892][888]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maps/a.a to /Game/maps/UEDPIE_0_a.a (0.041795s)
+[2021.05.21-08.51.53:918][888]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2021.05.21-08.51.53:919][888]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.05.21-08.51.53:919][888]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.21-08.51.53:919][888]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.21-08.51.53:919][888]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.21-08.51.53:919][888]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.21-08.51.53:919][888]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.21-08.51.53:919][888]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.21-08.51.53:919][888]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.21-08.51.53:919][888]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.21-08.51.53:919][888]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.21-08.51.53:919][888]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.21-08.51.53:924][888]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.21-08.51.53:924][888]LogAudioMixer: Display: 1: FrontRight
+[2021.05.21-08.51.53:936][888]LogAudioMixer: Display: Using Audio Device 스피커(6- USB Audio Device)
+[2021.05.21-08.51.53:937][888]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.21-08.51.53:937][888]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.21-08.51.53:937][888]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.21-08.51.53:937][888]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.21-08.51.53:937][888]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.21-08.51.53:937][888]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.21-08.51.53:950][888]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.21-08.51.53:950][888]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.21-08.51.53:950][888]LogInit: FAudioDevice initialized.
+[2021.05.21-08.51.53:950][888]LogAudio: Display: Audio Device (ID: 8) registered with world 'a'.
+[2021.05.21-08.51.53:958][888]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2021.05.21-08.51.53:969][888]LogWorld: Bringing World /Game/maps/UEDPIE_0_a.a up for play (max tick rate 0) at 2021.05.21-17.51.53
+[2021.05.21-08.51.53:969][888]LogWorld: Bringing up level for play took: 0.010680
+[2021.05.21-08.51.53:969][888]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2021.05.21-08.51.53:984][888]PIE: 서버가 로그인했습니다.
+[2021.05.21-08.51.53:984][888]PIE: 에디터에서 플레이 총 시작 시간 0.157초입니다.
+[2021.05.21-08.51.53:988][888]AnimBlueprintLog: Warning: ALS_N_FallLoop' 애니메이션은 애디티브가 아닌데 'ALS_AnimBP_C /Game/maps/UEDPIE_0_a.a:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0' 애님 인스턴스에서 애디티브를 기대하는 포즈에 재생하려 하고 있습니다.
+[2021.05.21-08.51.53:988][888]AnimBlueprintLog: Warning: ALS_N_FallLoop_Fast' 애니메이션은 애디티브가 아닌데 'ALS_AnimBP_C /Game/maps/UEDPIE_0_a.a:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0' 애님 인스턴스에서 애디티브를 기대하는 포즈에 재생하려 하고 있습니다.
+[2021.05.21-08.51.54:636][905]AnimBlueprintLog: Warning: ALS_N_Land_Light' 애니메이션은 애디티브가 아닌데 'ALS_AnimBP_C /Game/maps/UEDPIE_0_a.a:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0' 애님 인스턴스에서 애디티브를 기대하는 포즈에 재생하려 하고 있습니다.
+[2021.05.21-08.52.07:814][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-08.52.07:815][733]LogWorld: BeginTearingDown for /Game/maps/UEDPIE_0_a
+[2021.05.21-08.52.07:815][733]LogWorld: UWorld::CleanupWorld for a, bSessionEnded=true, bCleanupResources=true
+[2021.05.21-08.52.07:818][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-08.52.07:823][733]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.21-08.52.07:830][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-08.52.07:850][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-08.52.07:853][733]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.21-08.52.07:854][733]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.21-08.52.07:874][733]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.05.21-08.52.07:909][734]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2021.05.21-08.52.15:186][339]LogSavePackage: Moving '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/DamageMovingObject18A5CB964A1E7E0A8B8589A6C4D4E385.tmp' to '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/NewBluePrint/DamageMovingObject.uasset'
+[2021.05.21-08.52.15:199][339]AssetCheck: New page: 애셋 저장: DamageMovingObject
+[2021.05.21-08.52.15:199][339]LogContentValidation: Display: Blueprint /Game/NewBluePrint/DamageMovingObject.DamageMovingObject 유효성 검사
+[2021.05.21-08.54.15:228][841]BlueprintLog: New page: DamageMovingObject 컴파일
+[2021.05.21-08.54.15:273][841]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.05.21-08.54.15:835][886]LogSavePackage: Moving '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/DamageMovingObjectB4975124432274A66BDA408798071C2B.tmp' to '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/NewBluePrint/DamageMovingObject.uasset'
+[2021.05.21-08.54.15:851][886]AssetCheck: New page: 애셋 저장: DamageMovingObject
+[2021.05.21-08.54.15:851][886]LogContentValidation: Display: Blueprint /Game/NewBluePrint/DamageMovingObject.DamageMovingObject 유효성 검사
+[2021.05.21-08.54.17:650][ 33]LogTemp: Repeating last play command: 선택된 뷰포트
+[2021.05.21-08.54.17:657][ 33]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.21-08.54.17:657][ 33]PIE: New page: PIE 세션: a (2021. 5. 22. 오전 2:54:17)
+[2021.05.21-08.54.17:677][ 33]LogPlayLevel: Creating play world package: /Game/maps/UEDPIE_0_a
+[2021.05.21-08.54.17:718][ 33]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040454s)
+[2021.05.21-08.54.17:718][ 33]LogAIModule: Creating AISystem for world a
+[2021.05.21-08.54.17:719][ 33]LogPlayLevel: PIE: World Init took: (0.000996s)
+[2021.05.21-08.54.17:719][ 33]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maps/a.a to /Game/maps/UEDPIE_0_a.a (0.041615s)
+[2021.05.21-08.54.17:742][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.05.21-08.54.17:743][ 33]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.05.21-08.54.17:743][ 33]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.21-08.54.17:743][ 33]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.21-08.54.17:743][ 33]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.21-08.54.17:743][ 33]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.21-08.54.17:743][ 33]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.21-08.54.17:743][ 33]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.21-08.54.17:743][ 33]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.21-08.54.17:743][ 33]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.21-08.54.17:744][ 33]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.21-08.54.17:744][ 33]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.21-08.54.17:748][ 33]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.21-08.54.17:748][ 33]LogAudioMixer: Display: 1: FrontRight
+[2021.05.21-08.54.17:761][ 33]LogAudioMixer: Display: Using Audio Device 스피커(6- USB Audio Device)
+[2021.05.21-08.54.17:761][ 33]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.21-08.54.17:761][ 33]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.21-08.54.17:761][ 33]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.21-08.54.17:761][ 33]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.21-08.54.17:761][ 33]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.21-08.54.17:761][ 33]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.21-08.54.17:774][ 33]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.21-08.54.17:774][ 33]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.21-08.54.17:774][ 33]LogInit: FAudioDevice initialized.
+[2021.05.21-08.54.17:774][ 33]LogAudio: Display: Audio Device (ID: 9) registered with world 'a'.
+[2021.05.21-08.54.17:784][ 33]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2021.05.21-08.54.17:795][ 33]LogWorld: Bringing World /Game/maps/UEDPIE_0_a.a up for play (max tick rate 0) at 2021.05.21-17.54.17
+[2021.05.21-08.54.17:795][ 33]LogWorld: Bringing up level for play took: 0.010068
+[2021.05.21-08.54.17:795][ 33]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2021.05.21-08.54.17:809][ 33]PIE: 서버가 로그인했습니다.
+[2021.05.21-08.54.17:810][ 33]PIE: 에디터에서 플레이 총 시작 시간 0.155초입니다.
+[2021.05.21-08.54.17:814][ 33]AnimBlueprintLog: Warning: ALS_N_FallLoop' 애니메이션은 애디티브가 아닌데 'ALS_AnimBP_C /Game/maps/UEDPIE_0_a.a:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0' 애님 인스턴스에서 애디티브를 기대하는 포즈에 재생하려 하고 있습니다.
+[2021.05.21-08.54.17:814][ 33]AnimBlueprintLog: Warning: ALS_N_FallLoop_Fast' 애니메이션은 애디티브가 아닌데 'ALS_AnimBP_C /Game/maps/UEDPIE_0_a.a:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0' 애님 인스턴스에서 애디티브를 기대하는 포즈에 재생하려 하고 있습니다.
+[2021.05.21-08.54.18:060][ 48]AnimBlueprintLog: Warning: ALS_N_Land_Light' 애니메이션은 애디티브가 아닌데 'ALS_AnimBP_C /Game/maps/UEDPIE_0_a.a:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0' 애님 인스턴스에서 애디티브를 기대하는 포즈에 재생하려 하고 있습니다.
+[2021.05.21-08.54.19:903][175]LogCharacterMovement: ALS_AnimMan_CharacterBP_C_0 is stuck and failed to move! Velocity: X=143.76 Y=346.35 Z=0.00 Location: X=-7530.87 Y=-9326.98 Z=4848.24 Normal: X=-0.71 Y=-0.00 Z=-0.71 PenetrationDepth:8.505 Actor:Parabola_C_0 Component:ballmesh BoneName:None (0 other events since notify)
+[2021.05.21-08.54.33:772][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-08.54.33:772][ 76]LogWorld: BeginTearingDown for /Game/maps/UEDPIE_0_a
+[2021.05.21-08.54.33:772][ 76]LogWorld: UWorld::CleanupWorld for a, bSessionEnded=true, bCleanupResources=true
+[2021.05.21-08.54.33:775][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-08.54.33:784][ 76]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.21-08.54.33:790][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-08.54.33:814][ 76]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.21-08.54.33:814][ 76]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.21-08.54.33:815][ 76]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.21-08.54.33:829][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-08.54.33:838][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.05.21-08.54.33:871][ 77]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2021.05.21-08.55.10:664][455]LogEditorTransaction: Undo 컴포넌트 변경
+[2021.05.21-08.55.20:752][350]BlueprintLog: New page: DamageMovingObject 컴파일
+[2021.05.21-08.55.20:804][350]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2021.05.21-08.55.21:382][388]LogSavePackage: Moving '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/DamageMovingObject46FE68D547B5AA552B98FC8CE039BAA2.tmp' to '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/NewBluePrint/DamageMovingObject.uasset'
+[2021.05.21-08.55.21:395][388]AssetCheck: New page: 애셋 저장: DamageMovingObject
+[2021.05.21-08.55.21:395][388]LogContentValidation: Display: Blueprint /Game/NewBluePrint/DamageMovingObject.DamageMovingObject 유효성 검사
+[2021.05.21-08.55.22:664][465]LogTemp: Repeating last play command: 선택된 뷰포트
+[2021.05.21-08.55.22:670][465]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.21-08.55.22:670][465]PIE: New page: PIE 세션: a (2021. 5. 22. 오전 2:55:22)
+[2021.05.21-08.55.22:714][465]LogPlayLevel: Creating play world package: /Game/maps/UEDPIE_0_a
+[2021.05.21-08.55.22:758][465]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043313s)
+[2021.05.21-08.55.22:758][465]LogAIModule: Creating AISystem for world a
+[2021.05.21-08.55.22:759][465]LogPlayLevel: PIE: World Init took: (0.001021s)
+[2021.05.21-08.55.22:759][465]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maps/a.a to /Game/maps/UEDPIE_0_a.a (0.044515s)
+[2021.05.21-08.55.22:783][465]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.05.21-08.55.22:784][465]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.05.21-08.55.22:784][465]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.21-08.55.22:784][465]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.21-08.55.22:784][465]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.21-08.55.22:784][465]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.21-08.55.22:784][465]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.21-08.55.22:784][465]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.21-08.55.22:784][465]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.21-08.55.22:784][465]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.21-08.55.22:785][465]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.21-08.55.22:785][465]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.21-08.55.22:789][465]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.21-08.55.22:789][465]LogAudioMixer: Display: 1: FrontRight
+[2021.05.21-08.55.22:801][465]LogAudioMixer: Display: Using Audio Device 스피커(6- USB Audio Device)
+[2021.05.21-08.55.22:801][465]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.21-08.55.22:801][465]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.21-08.55.22:801][465]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.21-08.55.22:802][465]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.21-08.55.22:802][465]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.21-08.55.22:802][465]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.21-08.55.22:815][465]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.21-08.55.22:815][465]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.21-08.55.22:815][465]LogInit: FAudioDevice initialized.
+[2021.05.21-08.55.22:815][465]LogAudio: Display: Audio Device (ID: 10) registered with world 'a'.
+[2021.05.21-08.55.22:825][465]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2021.05.21-08.55.22:835][465]LogWorld: Bringing World /Game/maps/UEDPIE_0_a.a up for play (max tick rate 0) at 2021.05.21-17.55.22
+[2021.05.21-08.55.22:836][465]LogWorld: Bringing up level for play took: 0.009882
+[2021.05.21-08.55.22:836][465]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2021.05.21-08.55.22:850][465]PIE: 서버가 로그인했습니다.
+[2021.05.21-08.55.22:851][465]PIE: 에디터에서 플레이 총 시작 시간 0.183초입니다.
+[2021.05.21-08.55.22:856][465]AnimBlueprintLog: Warning: ALS_N_FallLoop' 애니메이션은 애디티브가 아닌데 'ALS_AnimBP_C /Game/maps/UEDPIE_0_a.a:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0' 애님 인스턴스에서 애디티브를 기대하는 포즈에 재생하려 하고 있습니다.
+[2021.05.21-08.55.22:856][465]AnimBlueprintLog: Warning: ALS_N_FallLoop_Fast' 애니메이션은 애디티브가 아닌데 'ALS_AnimBP_C /Game/maps/UEDPIE_0_a.a:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0' 애님 인스턴스에서 애디티브를 기대하는 포즈에 재생하려 하고 있습니다.
+[2021.05.21-08.55.23:101][479]AnimBlueprintLog: Warning: ALS_N_Land_Light' 애니메이션은 애디티브가 아닌데 'ALS_AnimBP_C /Game/maps/UEDPIE_0_a.a:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0' 애님 인스턴스에서 애디티브를 기대하는 포즈에 재생하려 하고 있습니다.
+[2021.05.21-08.55.32:938][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-08.55.32:938][ 60]LogWorld: BeginTearingDown for /Game/maps/UEDPIE_0_a
+[2021.05.21-08.55.32:939][ 60]LogWorld: UWorld::CleanupWorld for a, bSessionEnded=true, bCleanupResources=true
+[2021.05.21-08.55.32:942][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-08.55.32:953][ 60]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.21-08.55.32:960][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-08.55.32:982][ 60]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.21-08.55.32:983][ 60]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.21-08.55.32:984][ 60]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.21-08.55.32:997][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-08.55.33:004][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.05.21-08.55.33:043][ 61]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2021.05.21-08.55.54:123][137]BlueprintLog: New page: DamageMovingObject 컴파일
+[2021.05.21-08.55.54:167][137]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.05.21-08.55.54:957][212]LogSavePackage: Moving '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/DamageMovingObjectAC5B6CFE4C4486EF895058B28051C75B.tmp' to '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/NewBluePrint/DamageMovingObject.uasset'
+[2021.05.21-08.55.54:978][212]AssetCheck: New page: 애셋 저장: DamageMovingObject
+[2021.05.21-08.55.54:978][212]LogContentValidation: Display: Blueprint /Game/NewBluePrint/DamageMovingObject.DamageMovingObject 유효성 검사
+[2021.05.21-08.55.56:649][387]LogTemp: Repeating last play command: 선택된 뷰포트
+[2021.05.21-08.55.56:655][387]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.21-08.55.56:656][387]PIE: New page: PIE 세션: a (2021. 5. 22. 오전 2:55:56)
+[2021.05.21-08.55.56:677][387]LogPlayLevel: Creating play world package: /Game/maps/UEDPIE_0_a
+[2021.05.21-08.55.56:718][387]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040845s)
+[2021.05.21-08.55.56:719][387]LogAIModule: Creating AISystem for world a
+[2021.05.21-08.55.56:719][387]LogPlayLevel: PIE: World Init took: (0.001011s)
+[2021.05.21-08.55.56:719][387]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maps/a.a to /Game/maps/UEDPIE_0_a.a (0.042025s)
+[2021.05.21-08.55.56:744][387]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2021.05.21-08.55.56:745][387]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.05.21-08.55.56:745][387]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.21-08.55.56:745][387]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.21-08.55.56:745][387]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.21-08.55.56:745][387]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.21-08.55.56:745][387]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.21-08.55.56:745][387]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.21-08.55.56:745][387]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.21-08.55.56:745][387]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.21-08.55.56:746][387]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.21-08.55.56:746][387]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.21-08.55.56:751][387]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.21-08.55.56:751][387]LogAudioMixer: Display: 1: FrontRight
+[2021.05.21-08.55.56:765][387]LogAudioMixer: Display: Using Audio Device 스피커(6- USB Audio Device)
+[2021.05.21-08.55.56:766][387]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.21-08.55.56:766][387]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.21-08.55.56:766][387]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.21-08.55.56:767][387]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.21-08.55.56:767][387]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.21-08.55.56:767][387]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.21-08.55.56:779][387]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.21-08.55.56:779][387]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.21-08.55.56:779][387]LogInit: FAudioDevice initialized.
+[2021.05.21-08.55.56:779][387]LogAudio: Display: Audio Device (ID: 11) registered with world 'a'.
+[2021.05.21-08.55.56:785][387]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2021.05.21-08.55.56:795][387]LogWorld: Bringing World /Game/maps/UEDPIE_0_a.a up for play (max tick rate 0) at 2021.05.21-17.55.56
+[2021.05.21-08.55.56:795][387]LogWorld: Bringing up level for play took: 0.010263
+[2021.05.21-08.55.56:795][387]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2021.05.21-08.55.56:809][387]PIE: 서버가 로그인했습니다.
+[2021.05.21-08.55.56:811][387]PIE: 에디터에서 플레이 총 시작 시간 0.155초입니다.
+[2021.05.21-08.55.56:816][387]AnimBlueprintLog: Warning: ALS_N_FallLoop' 애니메이션은 애디티브가 아닌데 'ALS_AnimBP_C /Game/maps/UEDPIE_0_a.a:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0' 애님 인스턴스에서 애디티브를 기대하는 포즈에 재생하려 하고 있습니다.
+[2021.05.21-08.55.56:816][387]AnimBlueprintLog: Warning: ALS_N_FallLoop_Fast' 애니메이션은 애디티브가 아닌데 'ALS_AnimBP_C /Game/maps/UEDPIE_0_a.a:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0' 애님 인스턴스에서 애디티브를 기대하는 포즈에 재생하려 하고 있습니다.
+[2021.05.21-08.55.57:439][405]AnimBlueprintLog: Warning: ALS_N_Land_Light' 애니메이션은 애디티브가 아닌데 'ALS_AnimBP_C /Game/maps/UEDPIE_0_a.a:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0' 애님 인스턴스에서 애디티브를 기대하는 포즈에 재생하려 하고 있습니다.
+[2021.05.21-08.56.01:990][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-08.56.01:990][733]LogWorld: BeginTearingDown for /Game/maps/UEDPIE_0_a
+[2021.05.21-08.56.01:990][733]LogWorld: UWorld::CleanupWorld for a, bSessionEnded=true, bCleanupResources=true
+[2021.05.21-08.56.01:994][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-08.56.01:998][733]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.21-08.56.02:004][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-08.56.02:027][733]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.21-08.56.02:027][733]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.21-08.56.02:028][733]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.21-08.56.02:042][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-08.56.02:050][733]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.05.21-08.56.02:080][734]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2021.05.21-08.56.31:327][141]BlueprintLog: New page: DamageMovingObject 컴파일
+[2021.05.21-08.56.31:371][141]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.05.21-08.56.57:435][335]PIE: Warning: "/Engine/Transient.World_30:PersistentLevel.DamageMovingObject_C_0.StaticMesh" 에 피직스 시뮬레이션을 시도중이나 ComplexAsSimple 콜리전이 있습니다.
+[2021.05.21-08.56.57:435][335]PIE: Warning: "/Engine/Transient.World_30:PersistentLevel.DamageMovingObject_C_0.StaticMesh" 에 피직스 시뮬레이션을 시도중이나 ComplexAsSimple 콜리전이 있습니다.
+[2021.05.21-08.56.57:435][335]PIE: Warning: "/Engine/Transient.World_30:PersistentLevel.DamageMovingObject_C_0.StaticMesh" 에 피직스 시뮬레이션을 시도중이나 ComplexAsSimple 콜리전이 있습니다.
+[2021.05.21-08.56.57:435][335]PIE: Warning: "/Engine/Transient.World_30:PersistentLevel.DamageMovingObject_C_0.StaticMesh" 에 피직스 시뮬레이션을 시도중이나 ComplexAsSimple 콜리전이 있습니다.
+[2021.05.21-08.56.57:438][335]PIE: Warning: "/Engine/Transient.World_30:PersistentLevel.DamageMovingObject_C_0.StaticMesh" 에 피직스 시뮬레이션을 시도중이나 ComplexAsSimple 콜리전이 있습니다.
+[2021.05.21-08.56.57:438][335]PIE: Warning: "/Engine/Transient.World_30:PersistentLevel.DamageMovingObject_C_0.StaticMesh" 에 피직스 시뮬레이션을 시도중이나 ComplexAsSimple 콜리전이 있습니다.
+[2021.05.21-08.56.57:438][335]PIE: Warning: "/Engine/Transient.World_30:PersistentLevel.DamageMovingObject_C_0.StaticMesh" 에 피직스 시뮬레이션을 시도중이나 ComplexAsSimple 콜리전이 있습니다.
+[2021.05.21-08.56.57:440][335]PIE: Warning: "/Engine/Transient.World_30:PersistentLevel.DamageMovingObject_C_0.StaticMesh" 에 피직스 시뮬레이션을 시도중이나 ComplexAsSimple 콜리전이 있습니다.
+[2021.05.21-08.56.57:440][335]PIE: Warning: "/Engine/Transient.World_30:PersistentLevel.DamageMovingObject_C_0.StaticMesh" 에 피직스 시뮬레이션을 시도중이나 ComplexAsSimple 콜리전이 있습니다.
+[2021.05.21-08.56.57:440][335]PIE: Warning: "/Engine/Transient.World_30:PersistentLevel.DamageMovingObject_C_0.StaticMesh" 에 피직스 시뮬레이션을 시도중이나 ComplexAsSimple 콜리전이 있습니다.
+[2021.05.21-08.56.57:441][335]PIE: Warning: "/Engine/Transient.World_30:PersistentLevel.DamageMovingObject_C_0.StaticMesh" 에 피직스 시뮬레이션을 시도중이나 ComplexAsSimple 콜리전이 있습니다.
+[2021.05.21-08.56.57:442][335]PIE: Warning: "/Engine/Transient.World_30:PersistentLevel.DamageMovingObject_C_0.StaticMesh" 에 피직스 시뮬레이션을 시도중이나 ComplexAsSimple 콜리전이 있습니다.
+[2021.05.21-08.56.57:442][335]PIE: Warning: "/Engine/Transient.World_30:PersistentLevel.DamageMovingObject_C_0.StaticMesh" 에 피직스 시뮬레이션을 시도중이나 ComplexAsSimple 콜리전이 있습니다.
+[2021.05.21-08.56.58:422][411]BlueprintLog: New page: DamageMovingObject 컴파일
+[2021.05.21-08.56.58:433][411]PIE: Warning: "/Engine/Transient.World_30:PersistentLevel.DamageMovingObject_C_0.StaticMesh" 에 피직스 시뮬레이션을 시도중이나 ComplexAsSimple 콜리전이 있습니다.
+[2021.05.21-08.56.58:433][411]PIE: Warning: "/Engine/Transient.World_30:PersistentLevel.DamageMovingObject_C_0.StaticMesh" 에 피직스 시뮬레이션을 시도중이나 ComplexAsSimple 콜리전이 있습니다.
+[2021.05.21-08.56.58:468][411]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2021.05.21-08.56.58:470][411]PIE: Warning: "/Engine/Transient.World_30:PersistentLevel.DamageMovingObject_C_0.StaticMesh" 에 피직스 시뮬레이션을 시도중이나 ComplexAsSimple 콜리전이 있습니다.
+[2021.05.21-08.56.58:471][411]PIE: Warning: "/Engine/Transient.World_30:PersistentLevel.DamageMovingObject_C_0.StaticMesh" 에 피직스 시뮬레이션을 시도중이나 ComplexAsSimple 콜리전이 있습니다.
+[2021.05.21-08.56.58:471][411]PIE: Warning: "/Engine/Transient.World_30:PersistentLevel.DamageMovingObject_C_0.StaticMesh" 에 피직스 시뮬레이션을 시도중이나 ComplexAsSimple 콜리전이 있습니다.
+[2021.05.21-08.56.58:480][411]PIE: Warning: "/Engine/Transient.World_30:PersistentLevel.DamageMovingObject_C_0.StaticMesh" 에 피직스 시뮬레이션을 시도중이나 ComplexAsSimple 콜리전이 있습니다.
+[2021.05.21-08.56.58:480][411]PIE: Warning: "/Engine/Transient.World_30:PersistentLevel.DamageMovingObject_C_0.StaticMesh" 에 피직스 시뮬레이션을 시도중이나 ComplexAsSimple 콜리전이 있습니다.
+[2021.05.21-08.56.58:480][411]PIE: Warning: "/Engine/Transient.World_30:PersistentLevel.DamageMovingObject_C_0.StaticMesh" 에 피직스 시뮬레이션을 시도중이나 ComplexAsSimple 콜리전이 있습니다.
+[2021.05.21-08.56.58:921][436]LogSavePackage: Moving '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/DamageMovingObjectE7BB4974474B156F49F9379DF51FCF01.tmp' to '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/NewBluePrint/DamageMovingObject.uasset'
+[2021.05.21-08.56.58:934][436]AssetCheck: New page: 애셋 저장: DamageMovingObject
+[2021.05.21-08.56.58:934][436]LogContentValidation: Display: Blueprint /Game/NewBluePrint/DamageMovingObject.DamageMovingObject 유효성 검사
+[2021.05.21-08.57.06:837][ 77]LogTemp: Repeating last play command: 선택된 뷰포트
+[2021.05.21-08.57.06:844][ 77]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.21-08.57.06:844][ 77]PIE: New page: PIE 세션: a (2021. 5. 22. 오전 2:57:06)
+[2021.05.21-08.57.06:875][ 77]LogPlayLevel: Creating play world package: /Game/maps/UEDPIE_0_a
+[2021.05.21-08.57.06:916][ 77]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040591s)
+[2021.05.21-08.57.06:917][ 77]LogAIModule: Creating AISystem for world a
+[2021.05.21-08.57.06:917][ 77]LogPlayLevel: PIE: World Init took: (0.000985s)
+[2021.05.21-08.57.06:917][ 77]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maps/a.a to /Game/maps/UEDPIE_0_a.a (0.041759s)
+[2021.05.21-08.57.06:941][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2021.05.21-08.57.06:943][ 77]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.05.21-08.57.06:943][ 77]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.21-08.57.06:943][ 77]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.21-08.57.06:943][ 77]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.21-08.57.06:943][ 77]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.21-08.57.06:943][ 77]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.21-08.57.06:943][ 77]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.21-08.57.06:943][ 77]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.21-08.57.06:943][ 77]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.21-08.57.06:943][ 77]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.21-08.57.06:943][ 77]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.21-08.57.06:948][ 77]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.21-08.57.06:948][ 77]LogAudioMixer: Display: 1: FrontRight
+[2021.05.21-08.57.06:961][ 77]LogAudioMixer: Display: Using Audio Device 스피커(6- USB Audio Device)
+[2021.05.21-08.57.06:961][ 77]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.21-08.57.06:961][ 77]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.21-08.57.06:961][ 77]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.21-08.57.06:961][ 77]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.21-08.57.06:961][ 77]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.21-08.57.06:962][ 77]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.21-08.57.06:974][ 77]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.21-08.57.06:974][ 77]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.21-08.57.06:974][ 77]LogInit: FAudioDevice initialized.
+[2021.05.21-08.57.06:974][ 77]LogAudio: Display: Audio Device (ID: 12) registered with world 'a'.
+[2021.05.21-08.57.06:983][ 77]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2021.05.21-08.57.06:994][ 77]LogWorld: Bringing World /Game/maps/UEDPIE_0_a.a up for play (max tick rate 0) at 2021.05.21-17.57.06
+[2021.05.21-08.57.06:994][ 77]LogWorld: Bringing up level for play took: 0.010672
+[2021.05.21-08.57.06:994][ 77]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2021.05.21-08.57.07:008][ 77]PIE: 서버가 로그인했습니다.
+[2021.05.21-08.57.07:009][ 77]PIE: 에디터에서 플레이 총 시작 시간 0.167초입니다.
+[2021.05.21-08.57.07:013][ 77]AnimBlueprintLog: Warning: ALS_N_FallLoop' 애니메이션은 애디티브가 아닌데 'ALS_AnimBP_C /Game/maps/UEDPIE_0_a.a:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0' 애님 인스턴스에서 애디티브를 기대하는 포즈에 재생하려 하고 있습니다.
+[2021.05.21-08.57.07:013][ 77]AnimBlueprintLog: Warning: ALS_N_FallLoop_Fast' 애니메이션은 애디티브가 아닌데 'ALS_AnimBP_C /Game/maps/UEDPIE_0_a.a:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0' 애님 인스턴스에서 애디티브를 기대하는 포즈에 재생하려 하고 있습니다.
+[2021.05.21-08.57.07:165][ 85]AnimBlueprintLog: Warning: ALS_N_Land_Light' 애니메이션은 애디티브가 아닌데 'ALS_AnimBP_C /Game/maps/UEDPIE_0_a.a:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0' 애님 인스턴스에서 애디티브를 기대하는 포즈에 재생하려 하고 있습니다.
+[2021.05.21-08.57.14:090][444]LogCharacterMovement: ALS_AnimMan_CharacterBP_C_0 is stuck and failed to move! Velocity: X=183.74 Y=-49.19 Z=0.00 Location: X=-7362.30 Y=-8897.59 Z=4846.30 Normal: X=-0.34 Y=-0.93 Z=-0.18 PenetrationDepth:8.621 Actor:SimpleMovingObjecttopnal Component:StaticMesh BoneName:None (0 other events since notify)
+[2021.05.21-08.57.36:358][667]AnimBlueprintLog: Warning: ALS_N_JumpWalk_RF' 애니메이션은 애디티브가 아닌데 'ALS_AnimBP_C /Game/maps/UEDPIE_0_a.a:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0' 애님 인스턴스에서 애디티브를 기대하는 포즈에 재생하려 하고 있습니다.
+[2021.05.21-08.57.38:445][782]AnimBlueprintLog: Warning: ALS_CLF_to_N' 애니메이션은 애디티브가 아닌데 'ALS_AnimBP_C /Game/maps/UEDPIE_0_a.a:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0' 애님 인스턴스에서 애디티브를 기대하는 포즈에 재생하려 하고 있습니다.
+[2021.05.21-08.58.28:781][527]AnimBlueprintLog: Warning: ALS_Flail' 애니메이션은 애디티브가 아닌데 'ALS_AnimBP_C /Game/maps/UEDPIE_0_a.a:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0' 애님 인스턴스에서 애디티브를 기대하는 포즈에 재생하려 하고 있습니다.
+[2021.05.21-08.58.35:406][889]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] -999999995904.0
+[2021.05.21-08.58.36:190][932]AnimBlueprintLog: Warning: ALS_N_Land_Heavy' 애니메이션은 애디티브가 아닌데 'ALS_AnimBP_C /Game/maps/UEDPIE_0_a.a:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0' 애님 인스턴스에서 애디티브를 기대하는 포즈에 재생하려 하고 있습니다.
+[2021.05.21-08.58.42:672][278]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] -999999995904.0
+[2021.05.21-08.58.46:228][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-08.58.46:228][462]LogWorld: BeginTearingDown for /Game/maps/UEDPIE_0_a
+[2021.05.21-08.58.46:229][462]LogWorld: UWorld::CleanupWorld for a, bSessionEnded=true, bCleanupResources=true
+[2021.05.21-08.58.46:233][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-08.58.46:242][462]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.21-08.58.46:249][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-08.58.46:273][462]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.21-08.58.46:273][462]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.21-08.58.46:274][462]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.21-08.58.46:288][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-08.58.46:297][462]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.05.21-08.58.46:334][463]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2021.05.21-08.59.01:393][707]LogSavePackage: Moving '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/DamageMovingObject4D831E494A4625AB91DCADB1B851BDD2.tmp' to '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/NewBluePrint/DamageMovingObject.uasset'
+[2021.05.21-08.59.01:406][707]AssetCheck: New page: 애셋 저장: DamageMovingObject
+[2021.05.21-08.59.01:406][707]LogContentValidation: Display: Blueprint /Game/NewBluePrint/DamageMovingObject.DamageMovingObject 유효성 검사
+[2021.05.21-08.59.02:456][806]BlueprintLog: New page: DamageMovingObject 컴파일
+[2021.05.21-08.59.02:466][806]PIE: Warning: "/Engine/Transient.World_30:PersistentLevel.DamageMovingObject_C_0.StaticMesh" 에 피직스 시뮬레이션을 시도중이나 ComplexAsSimple 콜리전이 있습니다.
+[2021.05.21-08.59.02:467][806]PIE: Warning: "/Engine/Transient.World_30:PersistentLevel.DamageMovingObject_C_0.StaticMesh" 에 피직스 시뮬레이션을 시도중이나 ComplexAsSimple 콜리전이 있습니다.
+[2021.05.21-08.59.02:500][806]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.05.21-08.59.02:503][806]PIE: Warning: "/Engine/Transient.World_30:PersistentLevel.DamageMovingObject_C_0.StaticMesh" 에 피직스 시뮬레이션을 시도중이나 ComplexAsSimple 콜리전이 있습니다.
+[2021.05.21-08.59.02:503][806]PIE: Warning: "/Engine/Transient.World_30:PersistentLevel.DamageMovingObject_C_0.StaticMesh" 에 피직스 시뮬레이션을 시도중이나 ComplexAsSimple 콜리전이 있습니다.
+[2021.05.21-08.59.02:503][806]PIE: Warning: "/Engine/Transient.World_30:PersistentLevel.DamageMovingObject_C_0.StaticMesh" 에 피직스 시뮬레이션을 시도중이나 ComplexAsSimple 콜리전이 있습니다.
+[2021.05.21-08.59.02:513][806]PIE: Warning: "/Engine/Transient.World_30:PersistentLevel.DamageMovingObject_C_0.StaticMesh" 에 피직스 시뮬레이션을 시도중이나 ComplexAsSimple 콜리전이 있습니다.
+[2021.05.21-08.59.02:513][806]PIE: Warning: "/Engine/Transient.World_30:PersistentLevel.DamageMovingObject_C_0.StaticMesh" 에 피직스 시뮬레이션을 시도중이나 ComplexAsSimple 콜리전이 있습니다.
+[2021.05.21-08.59.02:513][806]PIE: Warning: "/Engine/Transient.World_30:PersistentLevel.DamageMovingObject_C_0.StaticMesh" 에 피직스 시뮬레이션을 시도중이나 ComplexAsSimple 콜리전이 있습니다.
+[2021.05.21-08.59.03:012][844]LogSavePackage: Moving '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/DamageMovingObjectFB27429F4B3B7DF7C90AFD939F16C3A7.tmp' to '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/NewBluePrint/DamageMovingObject.uasset'
+[2021.05.21-08.59.03:028][844]AssetCheck: New page: 애셋 저장: DamageMovingObject
+[2021.05.21-08.59.03:028][844]LogContentValidation: Display: Blueprint /Game/NewBluePrint/DamageMovingObject.DamageMovingObject 유효성 검사
+[2021.05.21-08.59.24:507][ 85]BlueprintLog: New page: DamageMovingObject 컴파일
+[2021.05.21-08.59.24:519][ 85]PIE: Warning: "/Engine/Transient.World_30:PersistentLevel.DamageMovingObject_C_0.StaticMesh" 에 피직스 시뮬레이션을 시도중이나 ComplexAsSimple 콜리전이 있습니다.
+[2021.05.21-08.59.24:519][ 85]PIE: Warning: "/Engine/Transient.World_30:PersistentLevel.DamageMovingObject_C_0.StaticMesh" 에 피직스 시뮬레이션을 시도중이나 ComplexAsSimple 콜리전이 있습니다.
+[2021.05.21-08.59.24:554][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2021.05.21-08.59.24:557][ 85]PIE: Warning: "/Engine/Transient.World_30:PersistentLevel.DamageMovingObject_C_0.StaticMesh" 에 피직스 시뮬레이션을 시도중이나 ComplexAsSimple 콜리전이 있습니다.
+[2021.05.21-08.59.24:558][ 85]PIE: Warning: "/Engine/Transient.World_30:PersistentLevel.DamageMovingObject_C_0.StaticMesh" 에 피직스 시뮬레이션을 시도중이나 ComplexAsSimple 콜리전이 있습니다.
+[2021.05.21-08.59.24:558][ 85]PIE: Warning: "/Engine/Transient.World_30:PersistentLevel.DamageMovingObject_C_0.StaticMesh" 에 피직스 시뮬레이션을 시도중이나 ComplexAsSimple 콜리전이 있습니다.
+[2021.05.21-08.59.24:567][ 85]PIE: Warning: "/Engine/Transient.World_30:PersistentLevel.DamageMovingObject_C_0.StaticMesh" 에 피직스 시뮬레이션을 시도중이나 ComplexAsSimple 콜리전이 있습니다.
+[2021.05.21-08.59.24:568][ 85]PIE: Warning: "/Engine/Transient.World_30:PersistentLevel.DamageMovingObject_C_0.StaticMesh" 에 피직스 시뮬레이션을 시도중이나 ComplexAsSimple 콜리전이 있습니다.
+[2021.05.21-08.59.24:568][ 85]PIE: Warning: "/Engine/Transient.World_30:PersistentLevel.DamageMovingObject_C_0.StaticMesh" 에 피직스 시뮬레이션을 시도중이나 ComplexAsSimple 콜리전이 있습니다.
+[2021.05.21-08.59.25:047][127]LogSavePackage: Moving '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/DamageMovingObjectEFB32436479EDEA7C98589AF3124A4A0.tmp' to '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/NewBluePrint/DamageMovingObject.uasset'
+[2021.05.21-08.59.25:060][127]AssetCheck: New page: 애셋 저장: DamageMovingObject
+[2021.05.21-08.59.25:060][127]LogContentValidation: Display: Blueprint /Game/NewBluePrint/DamageMovingObject.DamageMovingObject 유효성 검사
+[2021.05.21-08.59.25:412][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewBluePrint/mine기본" FILE="../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/NewBluePrint/mine기본.uasset" SILENT=true
+[2021.05.21-08.59.25:425][165]LogSavePackage: Moving '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Saved/mine기본637AC0F144B396180080228C74760135.tmp' to '../../../../../../Users/박지훈/Documents/GitHub/poly3/UnrealTeamGame31 4.26/Content/NewBluePrint/mine기본.uasset'
+[2021.05.21-08.59.25:436][165]AssetCheck: New page: 애셋 저장: mine기본
+[2021.05.21-08.59.25:436][165]LogContentValidation: Display: Blueprint /Game/NewBluePrint/mine기본.mine기본 유효성 검사
+[2021.05.21-08.59.31:105][797]PIE: Warning: "/Game/maps/a.a:PersistentLevel.DamageMovingObject_C_3.StaticMesh" 에 피직스 시뮬레이션을 시도중이나 ComplexAsSimple 콜리전이 있습니다.
+[2021.05.21-08.59.31:106][797]LogOutputDevice: Warning: 
+
+Script Stack (1 frames):
+DamageMovingObject_C.UserConstructionScript
+
+[2021.05.21-08.59.31:583][797]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.477 s
+[2021.05.21-08.59.31:583][797]LogOutputDevice: Error: === Handled ensure: ===
+[2021.05.21-08.59.31:583][797]LogOutputDevice: Error: 
+[2021.05.21-08.59.31:583][797]LogOutputDevice: Error: Ensure condition failed: NewObject->IsA(this->GeneratedClass) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/Blueprint.cpp] [Line: 903]
+[2021.05.21-08.59.31:583][797]LogOutputDevice: Error: Type mismatch: Expected DamageMovingObject_C, Found REINST_DamageMovingObject_C_145
+[2021.05.21-08.59.31:583][797]LogOutputDevice: Error: Stack: 
+[2021.05.21-08.59.31:583][797]LogOutputDevice: Error: [Callstack] 0x00007ff809af70e7 UE4Editor-Engine.dll!UnknownFunction []
+[2021.05.21-08.59.31:583][797]LogOutputDevice: Error: [Callstack] 0x00007ff808407c14 UE4Editor-Engine.dll!UnknownFunction []
+[2021.05.21-08.59.31:583][797]LogOutputDevice: Error: [Callstack] 0x00007ff806d9615e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.21-08.59.31:583][797]LogOutputDevice: Error: [Callstack] 0x00007ff80720d34a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.21-08.59.31:583][797]LogOutputDevice: Error: [Callstack] 0x00007ff80f8cbee1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.21-08.59.31:583][797]LogOutputDevice: Error: [Callstack] 0x00007ff80f8e06b0 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.21-08.59.31:583][797]LogOutputDevice: Error: [Callstack] 0x00007ff80f8b22fd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.21-08.59.31:583][797]LogOutputDevice: Error: [Callstack] 0x00007ff80f8b1704 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.21-08.59.31:583][797]LogOutputDevice: Error: [Callstack] 0x00007ff80f622604 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.21-08.59.31:583][797]LogOutputDevice: Error: [Callstack] 0x00007ff80f8b0e63 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.21-08.59.31:583][797]LogOutputDevice: Error: [Callstack] 0x00007ff80810c435 UE4Editor-Engine.dll!UnknownFunction []
+[2021.05.21-08.59.31:583][797]LogOutputDevice: Error: [Callstack] 0x00007ff80810c5f3 UE4Editor-Engine.dll!UnknownFunction []
+[2021.05.21-08.59.31:583][797]LogOutputDevice: Error: [Callstack] 0x00007ff8080ee7a8 UE4Editor-Engine.dll!UnknownFunction []
+[2021.05.21-08.59.31:583][797]LogOutputDevice: Error: [Callstack] 0x00007ff8080f1d2a UE4Editor-Engine.dll!UnknownFunction []
+[2021.05.21-08.59.31:583][797]LogOutputDevice: Error: [Callstack] 0x00007ff80810b7bb UE4Editor-Engine.dll!UnknownFunction []
+[2021.05.21-08.59.31:583][797]LogOutputDevice: Error: [Callstack] 0x00007ff808a2182d UE4Editor-Engine.dll!UnknownFunction []
+[2021.05.21-08.59.31:583][797]LogOutputDevice: Error: [Callstack] 0x00007ff806a77b36 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.21-08.59.31:583][797]LogOutputDevice: Error: [Callstack] 0x00007ff806a4c124 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.21-08.59.31:583][797]LogOutputDevice: Error: [Callstack] 0x00007ff8065d7d25 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.21-08.59.31:583][797]LogOutputDevice: Error: [Callstack] 0x00007ff806582ab0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.21-08.59.31:583][797]LogOutputDevice: Error: [Callstack] 0x00007ff806e0af26 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.21-08.59.31:583][797]LogOutputDevice: Error: [Callstack] 0x00007ff806ddb7aa UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.21-08.59.31:583][797]LogOutputDevice: Error: [Callstack] 0x00007ff806ddadeb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.21-08.59.31:583][797]LogOutputDevice: Error: [Callstack] 0x00007ffff74b0156 UE4Editor-LevelEditor.dll!UnknownFunction []
+[2021.05.21-08.59.31:583][797]LogOutputDevice: Error: [Callstack] 0x00007ffff74c5490 UE4Editor-LevelEditor.dll!UnknownFunction []
+[2021.05.21-08.59.31:583][797]LogOutputDevice: Error: [Callstack] 0x00007ff80e2e1754 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.21-08.59.31:583][797]LogOutputDevice: Error: [Callstack] 0x00007ff80e367aef UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.21-08.59.31:583][797]LogOutputDevice: Error: [Callstack] 0x00007ff80e350e31 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.21-08.59.31:583][797]LogOutputDevice: Error: [Callstack] 0x00007ff80e37044b UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.21-08.59.31:583][797]LogOutputDevice: Error: [Callstack] 0x00007ff80e311241 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.21-08.59.31:583][797]LogOutputDevice: Error: [Callstack] 0x00007ff80e372695 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.21-08.59.31:583][797]LogOutputDevice: Error: [Callstack] 0x00007ff80e37163a UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.21-08.59.31:583][797]LogOutputDevice: Error: [Callstack] 0x00007ff63010acfb UE4Editor.exe!UnknownFunction []
+[2021.05.21-08.59.31:583][797]LogOutputDevice: Error: [Callstack] 0x00007ff63012117c UE4Editor.exe!UnknownFunction []
+[2021.05.21-08.59.31:584][797]LogOutputDevice: Error: [Callstack] 0x00007ff63012125a UE4Editor.exe!UnknownFunction []
+[2021.05.21-08.59.31:584][797]LogOutputDevice: Error: [Callstack] 0x00007ff6301352bd UE4Editor.exe!UnknownFunction []
+[2021.05.21-08.59.31:584][797]LogOutputDevice: Error: [Callstack] 0x00007ff630137fea UE4Editor.exe!UnknownFunction []
+[2021.05.21-08.59.31:584][797]LogOutputDevice: Error: [Callstack] 0x00007ff89d297034 KERNEL32.DLL!UnknownFunction []
+[2021.05.21-08.59.31:584][797]LogOutputDevice: Error: [Callstack] 0x00007ff89dae2651 ntdll.dll!UnknownFunction []
+[2021.05.21-08.59.31:584][797]LogOutputDevice: Error: 
